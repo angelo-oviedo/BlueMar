@@ -15,8 +15,6 @@ clean-targets:
   - "target"
   - "dbt_packages"
 
-
-
 models:
   BlueMar:
     raw:

@@ -1,3 +1,5 @@
+-- models/raw/raw_ingresos.sql
+
 with raw_ingresos as (
         SELECT    
             cantidad,

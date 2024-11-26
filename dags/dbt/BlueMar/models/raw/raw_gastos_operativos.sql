@@ -1,3 +1,5 @@
+-- models/raw/raw_gastos_operativos.sql
+
 with raw_gastos_operativos as (
     SELECT
         cantidad_,
