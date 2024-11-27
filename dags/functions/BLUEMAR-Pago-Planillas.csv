@@ -1,0 +1,11 @@
+_AIRBYTE_RAW_ID,_AIRBYTE_EXTRACTED_AT,_AIRBYTE_META,_AIRBYTE_GENERATION_ID,COSTO_POR_HORA,FECHA_DEL_PAGO,HORAS_TRABAJADAS,MES,NOMBRE_DEL_COLABORADOR,PAGO_TOTAL
+c0d1485e-4bef-4daf-841c-5831dc9ab04c,1732077515000,"{""changes"":[],""sync_id"":22344111}",5,,mes,,Enero,pedro,"₡189.400,00"
+985ff76b-33fd-4361-a1d2-fcf3555f9d57,1732077515000,"{""changes"":[],""sync_id"":22344111}",5,,mes,,Enero,valery,"₡75.000,00"
+15009a57-8a0a-4b67-9729-2120923027a7,1732077515000,"{""changes"":[],""sync_id"":22344111}",5,,mes,,enero,Yahaira,"₡400.000,00"
+f8d46b9f-4482-4648-86c8-764e37f3f3bb,1732077515000,"{""changes"":[],""sync_id"":22344111}",5,"₡3,800.00",15/01/2024,35,Enero,Luis,"₡133,000.00"
+5129b16c-1a53-422a-84dd-d21dd57017d9,1732077515000,"{""changes"":[],""sync_id"":22344111}",5,"₡4,200.00",15/01/2024,45,Enero,María,"₡189,000.00"
+c1865e8b-57de-47b8-9cb7-d6ac922c5aa9,1732077515000,"{""changes"":[],""sync_id"":22344111}",5,"₡5,500.00",15/01/2024,60,Enero,Esteban,"₡330,000.00"
+ae23bca6-9ff3-4fbd-b5b3-b187a5ce6a42,1732077515000,"{""changes"":[],""sync_id"":22344111}",5,"₡4,000.00",15/01/2024,25,Enero,Daniela,"₡100,000.00"
+3f5d1b21-897a-4057-935e-9e582c19c98b,1732077515000,"{""changes"":[],""sync_id"":22344111}",5,"₡3,900.00",15/01/2024,50,Enero,Sofía,"₡195,000.00"
+92f5940a-3cbb-4907-a721-f848a8dec1cf,1732077515000,"{""changes"":[],""sync_id"":22344111}",5,"₡3,900.00",15/02/2024,40,enero,Luis,"₡156,000.00"
+1c4755aa-39c0-4dce-95b1-fbb2374a8da6,1732077515000,"{""changes"":[],""sync_id"":22344111}",5,"₡4,300.00",15/02/2024,48,enero,María,"₡206,400.00"
