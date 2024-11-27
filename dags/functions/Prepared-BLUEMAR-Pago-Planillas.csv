@@ -1,0 +1,11 @@
+costo_por_hora,fecha_del_pago,horas_trabajadas,mes,nombre_del_colaborador,pago_total
+n/a,n/a,n/a,enero,Pedro,189.40000
+n/a,n/a,n/a,enero,Valery,75.00000
+n/a,n/a,n/a,enero,Yahaira,400.00000
+3800.00,15/01/2024,35,enero,Luis,133000.00
+4200.00,15/01/2024,45,enero,María,189000.00
+5500.00,15/01/2024,60,enero,Esteban,330000.00
+4000.00,15/01/2024,25,enero,Daniela,100000.00
+3900.00,15/01/2024,50,enero,Sofía,195000.00
+3900.00,15/02/2024,40,enero,Luis,156000.00
+4300.00,15/02/2024,48,enero,María,206400.00

@@ -1,0 +1,11 @@
+cantidad,cliente,estado_factura,factura,fecha,mes,precio_unitario,referencia_banco,talla,total
+120,Saenz,paga,1344,04/01/2023,enero,90400,406403408bac,7cm,108.48000
+60,3-101-73,paga,1345`,04/01/2023,enero,1.13000,7584690bac,10cm,67.80000
+n/a,Anulada,n/a,1346,04/01/2023,enero,n/a,n/a,n/a,n/a
+100,Jardines,paga,1347,04/01/2023,enero,1.01700,666407034 bac,8cm,101.70000
+n/a,Jardines,paga,1347,04/01/2023,enero,22.60000,666407034 bac,camarones 15,339.00000
+24,La  Cascada De Escazu,paga,1348,04/01/2023,enero,1.01700,n/a,8cm,24.40800
+30,Esquina Inka,paga,1349,04/01/2023,enero,1.01700,406406056bac,8cm,30.51000
+106,Hlk Sa,paga,1350,04/01/2023,enero,67800,406407966bac,6.5cm,71.86800
+350,Coco Beer,paga,1351,06/01/2023,enero,75000,19956525bn,7cm,262.50000
+400,Maraki Family Itda,paga,1352,06/01/2023,enero,90400,9812324bac,7cm,361.60000
