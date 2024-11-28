@@ -39,7 +39,7 @@ WITH raw_ingresos AS (
         END AS fecha,
 
         COALESCE(INITCAP(mes), 'Unknown') AS mes
-    FROM {{ source('raw', 'raw_ingresos') }}
+    FROM {{ source('raw', 'processed_ingresos') }}
 ),
 
 cleaned_ingresos AS (

@@ -1,11 +1,10 @@
 version: 2
-
 sources:
   - name: raw
     database: bluemar_dev_db
     schema: raw
     tables:
-      - name: raw_gastos_operativos
-      - name: raw_ingresos
-      - name: raw_pago_planillos
-      - name: raw_inventario_de_activos
+      - name: processed_gastos_operativos
+      - name: processed_ingresos
+      - name: processed_pago_planillas
+      - name: processed_inventario_de_activos
