@@ -1,0 +1,678 @@
+cantidad,concepto,descripcion,estado_factura,factura,fecha,fecha_de_pago,mes,monto_unitario,proveedor,referencia_banco,total
+406,Ostras,Ostras de 7cm,paga,32,03/01/2023,23/01/2023,Enero,452,Sindicato,94006759bn,183.512
+404,Ostras,Ostras de 8cm,paga,32,03/01/2023,23/01/2023,Enero,565,Sindicato,94006759bn,228.260
+126,Ostras,Ostras de 9cm,paga,32,03/01/2023,23/01/2023,enero,678,Sindicato,94006759bn,85.428
+1.260,Ostras,Ostras de 8cm,paga,28,03/01/2023,23/01/2023,enero,565,Sindicato,94006759bn,711.900
+193,Ostras,Ostras de 9cm,paga,28,03/01/2023,23/01/2023,enero,678,Sindicato,94006759bn,130.854
+808,Ostras,Ostras de 7cm,paga,28,03/01/2023,23/01/2023,enero,452,Sindicato,94006759bn,365.216
+414,ostras d,Ostras de 6.5cm,paga,33,14/01/2023,30/01/2023,enero,396,Sindicato,90473879bn,163.944
+802,ostras d,Ostras de 7cm,paga,33,14/01/2023,30/01/2023,enero,451,Sindicato,90473879bn,361.702
+662,ostras d,Ostras de 8cm,paga,33,14/01/2023,30/01/2023,enero,564,Sindicato,90473879bn,373.368
+63,ostras d,Ostras de 9cm,paga,33,14/01/2023,30/01/2023,enero,678,Sindicato,90473879bn,42.714
+456,ostras d,Ostras de 7cm,paga,35,14/01/2023,30/01/2023,enero,452,Sindicato,90473879bn,206.112
+205,ostras d,Ostras de 8cm,paga,35,14/01/2023,30/01/2023,enero,565,Sindicato,90473879bn,115.825
+25,ostras d,OSTRAS DE 10,paga,35,14/01/2023,30/01/2023,enero,678,Sindicato,90473879bn,16.950
+228,ostras d,OSTRAS DE 10,paga,35,14/01/2023,30/01/2023,enero,904,Sindicato,90473879bn,206.112
+155,ostras d,Ostras de 6.5cm,paga,36,14/01/2023,30/01/2023,enero,395,Sindicato,90473879bn,61.225
+803,ostras d,Ostras de 7Cm,paga,36,14/01/2023,30/01/2023,enero,452,Sindicato,90473879bn,362.956
+433,ostras d,Ostras de 8cm,paga,36,14/01/2023,07/02/2023,enero,565,Sindicato,97.592.092,244.645
+205,ostras d,Ostras de 9cm,paga,36,14/01/2023,07/02/2023,enero,678,Sindicato,97.592.092,138.990
+405,ostras d,Ostras de 8cm,paga,37,18/01/2023,07/02/2023,enero,565,Sindicato,97.592.092,228.825
+223,ostras d,Ostras de 9Cm,paga,37,18/01/2023,07/02/2023,enero,678,Sindicato,97.592.092,151.194
+105,ostras d,OSTRAS D E65,paga,38,26/01/2023,07/02/2023,enero,396,Sindicato,97.592.092,41.528
+654,ostras d,OSTRAS DE 8cm,paga,38,26/01/2023,13/02/2023,enero,565,Sindicato,93965074bn,369.510
+154,ostras d,OSTRAS DE 9Cm,paga,38,26/01/2023,13/02/2023,enero,791,Sindicato,93965074bn,121.814
+604,ostras d,Ostras de 7Cm,paga,39,26/01/2023,13/02/2023,enero,452,Sindicato,93965074bn,273.008
+255,ostras d,Ostras de 8Cm,paga,39,26/01/2023,13/02/2023,enero,565,Sindicato,93965074bn,144.075
+155,ostras d,Ostras de 9Cm,paga,39,26/01/2023,13/02/2023,enero,678,Sindicato,93965074bn,105.090
+305,ostras d,OSTRAS DE 65,paga,86,,07/02/2023,enero,395,VENADO,97575678bn,120.475
+503,ostras d,OSTRAS DE 7Cm,paga,86,,07/02/2023,enero,452,VENADO,97575678bn,227.356
+305,ostras d,Ostras de 8Cm,paga,86,,07/02/2023,enero,565,VENADO,97575678bn,172.325
+7.404,enero,,paga,,,,enero,20,,,148.080
+204,ostras,6.5cm,paga,87,,06/03/2023,enero,395,VENADO,94723949 bn,80.580
+567,ostras,7cm,paga,87,,06/03/2023,enero,452,VENADO,94723949 bn,256.284
+,Alimentación,,,,,,enero,,,,130.605
+,Combustible,,,,,,enero,,,,232.859
+,DEPRECIACION,,,,,,enero,,,,8.835
+,Encomiendas,,,,,,enero,,,,8.407
+,Mantenimiento de Instalaciones,,,,,,enero,,,,
+,Mantenimiento de vehículo,,,,,,enero,,,,105.314
+,Parqueo,,,,,,enero,,,,884
+,Poliza Vehicular,,,,,,enero,,,,25.951
+,Riesgos del trabajo,,,,,,enero,,,,3.440
+,Seguro,,,,,,enero,,,,4.746
+,Servicios contables,,,,,,enero,,,,35.000
+,Sistema de facturación,,,,,,enero,,,,
+,Suministros,,,,,,enero,,,,45.575
+,Suministros de limpieza,,,,,,enero,,,,37.698
+,Teléfono,,,,,,enero,,,,19.740
+,Uniformes,alimentacion,,,,,enero,,,,
+,,combustible,,,,,enero,,,,130.605
+,,decreciacion,,,,,enero,,,,232.859
+,,encomiendas,,,,,enero,,,,8.407
+,,mantenimiento de instalaciones,,,,,enero,,,,0
+,,matenimiento de vehiculo,,,,,enero,,,,
+,,parqueo,,,,,enero,,,,105.314
+,,poliza vehicular,,,,,enero,,,,884
+,,riesgos de trabajo,,,,,enero,,,,25.951
+,,seguro,,,,,enero,,,,3.440
+,,servicios contables,,,,,enero,,,,35.000
+,,suministros,,,,,enero,,,,45.575
+,,suministros de limpieza,,,,,enero,,,,37.698
+,,telefono,,,,,enero,,,,0
+104,ostras,6.5cm,paga,88,05/02/2023,20/02/2023,Febrero,395,VENADO,90559717bn,41.080
+378,osttras,7cm,paga,88,05/02/2023,20/02/2023,Febrero,452,VENADO,90559717bn,170.856
+176,ostras,8cm,paga,88,05/02/2023,20/02/2023,febrero,565,VENADO,90559717bn,99.440
+,depuracion,,paga,125548,14/02/2023,,febrero,,FUNDA UNA,,83.880
+,DEpuracion,,paga,125547,14/02/2023,,febrero,,FUNDA UNA,,148.080
+40,ostras,6cm,paga,44,13/02/2023,06/03/2023,febrero,282,Sindicato,94727637bn,11.280
+205,ostras,6.5cm,paga,44,13/02/2023,06/03/2023,febrero,395,Sindicato,94727637bn,80.975
+998,ostras,7cm,paga,44,13/02/2023,06/03/2023,febrero,452,Sindicato,94727637bn,451.096
+397,ostras,8cm,paga,44,13/02/2023,06/03/2023,febrero,565,Sindicato,94727637bn,224.305
+55,ostras,9cm,paga,44,13/02/2023,06/03/2023,febrero,678,Sindicato,94727637bn,37.290
+65,ostras,11cm,paga,44,13/02/2023,06/03/2023,febrero,904,Sindicato,94727637bn,58.760
+30,ostras,12cm,paga,44,13/02/2023,06/03/2023,febrero,1.017,Sindicato,94727637bn,30.510
+353,ostras,6.5cm,paga,43,13/02/2023,20/02/2023,febrero,395,Sindicato,90577112bn,139.435
+802,ostras,7cm,paga,43,13/02/2023,20/02/2023,febrero,452,Sindicato,90577112bn,362.504
+568,ostras,8cm,paga,43,13/02/2023,20/02/2023,febrero,565,Sindicato,90577112bn,320.920
+696,ostras,7cm,paga,45,21/02/2023,06/03/2023,febrero,452,Sindicato,94727637bn,314.592
+164,ostras,8cm,paga,45,21/02/2023,06/03/2023,febrero,565,Sindicato,94727637bn,92.660
+403,osttras,7cm,paga,46,21/02/2023,13/03/2023,febrero,452,Sindicato,90841802bn,182.156
+235,ostras,8cm,paga,46,21/02/2023,13/03/2023,febrero,565,Sindicato,90841802bn,132.775
+205,ostras,10cm,paga,46,21/02/2023,13/03/2023,febrero,791,Sindicato,90841802bn,162.155
+555,ostras,8cm,paga,40,01/02/2023,27/02/2023,febrero,565,sindicato,97005728bn,313.575
+54,ostras,9cm,paga,40,01/02/2023,27/02/2023,febrero,678,sindicato,97005728bn,36.612
+25,ostras,10cm,paga,40,01/02/2023,27/02/2023,febrero,791,sindicato,97005728bn,19.775
+35,ostras,65,paga,41,05/02/2023,27/02/2023,febrero,396,sindicato,97005728bn,13.843
+425,ostras,7cm,paga,41,05/02/2023,27/02/2023,febrero,452,sindicato,97005728bn,192.100
+855,ostras,8cm,paga,41,05/02/2023,27/02/2023,febrero,565,sindicato,97005728bn,483.075
+894,ostras,7cm,paga,47,27/02/2023,13/03/2023,febrero,452,sindicato,90841802bn,404.088
+420,ostras,8cm,paga,47,27/02/2023,13/03/2023,febrero,565,sindicato,90841802bn,237.300
+55,ostras,9cm,paga,47,27/02/2023,13/03/2023,febrero,678,sindicato,90841802bn,37.290
+232,ostras,6.5cm,paga,47,27/02/2023,13/03/2023,febrero,396,sindicato,90841802bn,91.872
+152,ostras,6.5 cm,paga,48,27/02/2023,20/03/2023,febrero,396,sindicato,98217673bn,60.116
+145,ostras,7cm,paga,48,27/02/2023,20/03/2023,febrero,452,sindicato,98217673bn,65.540
+305,ostras,10cm,paga,48,27/02/2023,20/03/2023,febrero,791,sindicato,98217673bn,241.255
+45,ostras,12cm,paga,48,27/02/2023,20/03/2023,febrero,1.017,sindicato,98217673bn,45.765
+153,ostras,65,paga,42,05/02/2023,13/03/2023,febrero,396,sindicato,90841802bn,60.512
+66,ostras,7cm,paga,42,05/02/2023,13/03/2023,febrero,452,sindicato,90841802bn,29.832
+154,ostras,8cm,paga,42,05/02/2023,13/03/2023,febrero,565,sindicato,90841802bn,87.010
+305,ostras,9cm,paga,42,05/02/2023,13/03/2023,febrero,678,sindicato,90841802bn,206.790
+165,ostras,10cm,paga,42,05/02/2023,13/03/2023,febrero,791,sindicato,90841802bn,130.515
+70,ostras,11cm,paga,42,05/02/2023,13/03/2023,febrero,904,sindicato,90841802bn,63.280
+20,ostras,12cm,paga,42,05/02/2023,13/03/2023,febrero,1.017,sindicato,90841802bn,20.340
+,Alimentación,,,,,,febrero,,,,98341
+,Combustible,,,,,,febrero,,,,271240
+,DEPRECIACION,,,,,,febrero,,,,9615
+,Encomiendas,,,,,,febrero,,,,1769
+,Mantenimiento de Instalaciones,,,,,,febrero,,,,
+,Mantenimiento de vehículo,,,,,,febrero,,,,7156
+,Parqueo,,,,,,febrero,,,,796
+,Poliza Vehicular,,,,,,febrero,,,,
+,Riesgos del trabajo,,,,,,febrero,,,,
+,Seguro,,,,,,febrero,,,,4742
+,Servicios contables,,,,,,febrero,,,,39823
+,Sistema de facturación,,,,,,febrero,,,,
+,Suministros,,,,,,febrero,,,,72300
+,Suministros de limpieza,,,,,,febrero,,,,33818
+,Teléfono,,,,,,febrero,,,,14683
+,Uniformes,,,,,,febrero,,,,111000
+,,,,,,,febrero,,,,
+374,ostras,6.5cm,paga,89,02/03/2023,20/03/2023,Marzo,395,VENADO,98219236bn,147.730
+583,ostras,7cm,paga,89,02/03/2023,20/03/2023,Marzo,452,VENADO,98219236bn,263.516
+270,ostras,8cm,paga,89,02/03/2023,20/03/2023,marzo,565,VENADO,98219236bn,152.550
+313,ostras,8CM,paga,49,09/03/2023,27/03/2023,marzo,565,Sindicatos,94718941bn,176.845
+103,ostras,9CM,paga,49,09/03/2023,27/03/2023,marzo,678,Sindicatos,94718941bn,69.834
+65,ostras,10CM,paga,49,09/03/2023,27/03/2023,marzo,791,Sindicatos,94718941bn,51.415
+743,ostras,7cm,paga,51,10/03/2023,27/03/2023,marzo,452,Sindicatos,94718941bn,335.836
+309,ostras,8cm,paga,51,10/03/2023,27/03/2023,marzo,565,Sindicatos,94718941bn,174.585
+126,ostras,9cm,paga,51,10/03/2023,27/03/2023,marzo,678,Sindicatos,94718941bn,85.428
+44,ostras,10cm,paga,51,10/03/2023,27/03/2023,marzo,791,Sindicatos,94718941bn,34.804
+301,ostras,10cm,paga,50,10/03/2023,27/03/2023,marzo,791,Sindicatos,94718941bn,238.091
+662,ostras,7cm,paga,50,10/03/2023,27/03/2023,marzo,452,Sindicatos,94718941bn,299.224
+245,ostras,8cm,paga,50,10/03/2023,03/04/2023,marzo,565,Sindicatos,92705836bn,138.425
+498,ostras,7cm,paga,90,08/03/2023,27/03/2023,marzo,452,VENADO,94712189bn,225.096
+190,ostras,8cm,paga,90,08/03/2023,27/03/2023,marzo,565,VENADO,94712189bn,107.350
+19,ostras,9cm,paga,90,08/03/2023,27/03/2023,marzo,678,VENADO,94712189bn,12.882
+403,ostras,65,paga,674,07/03/2023,20/03/2022,marzo,350,chira,18206446bn,141.050
+410,ostras,65cm,paga,677,14/03/2023,27/03/2023,marzo,350,chira,94716176bn,143.500
+405,ostras,9cm,paga,52,16/03/2023,10/03/2023,marzo,678,sindicato,97601285bn,274.590
+405,ostras,11cm,paga,52,16/03/2023,03/04/2023,marzo,904,sindicato,92705836bn,366.120
+205,ostras,8cm,paga,52,16/03/2023,03/04/2023,marzo,565,sindicato,92705836bn,115.825
+803,ostras,7cm,paga,53,18/03/2023,03/04/2023,marzo,452,sindicato,92705836bn,362.956
+372,ostras,8cm,paga,53,18/03/2023,03/04/2023,marzo,565,sindicato,92705836bn,210.180
+105,ostras,9cm,paga,53,18/03/2023,03/04/2023,marzo,678,sindicato,92705836bn,71.190
+70,ostras,6cm,paga,54,18/03/2023,03/04/2023,marzo,339,sindicato,92705836bn,23.730
+105,ostras,8cm,paga,54,18/03/2023,03/04/2023,marzo,565,sindicato,92705836bn,59.325
+402,ostras,9cm,paga,54,18/03/2023,03/04/2023,marzo,678,sindicato,92705836bn,272.556
+404,ostras,10cm,paga,54,18/03/2023,03/04/2023,marzo,791,sindicato,92705836bn,319.564
+795,ostras,7cm,paga,55,30/03/2023,10/03/2023,marzo,452,sindicato,97601285bn,359.340
+565,ostras,8cm,paga,55,30/03/2023,10/03/2023,marzo,439,sindicato,97601285bn,248.035
+678,ostras,9cm,paga,55,30/03/2023,10/03/2023,marzo,105,sindicato,97601285bn,71.190
+452,ostras,7cm,paga,56,30/03/2023,10/03/2023,marzo,205,sindicato,97601285bn,92.660
+565,ostras,8cm,paga,56,30/03/2023,10/03/2023,marzo,201,sindicato,97601285bn,113.565
+678,ostras,9cm,paga,56,30/03/2023,10/03/2023,marzo,403,sindicato,97601285bn,273.234
+791,ostras,10cm,paga,56,30/03/2023,10/03/2023,marzo,298,sindicato,97601285bn,235.718
+25,ostras,11cm,paga,56,30/03/2023,10/03/2023,marzo,904,sindicato,97601285bn,22.600
+35,ostras,12cm,paga,56,30/03/2023,10/03/2023,marzo,1.017,sindicato,97601285bn,35.595
+250,ostras,65cm,paga,57,30/03/2023,10/03/2023,marzo,396,sindicato,97601285bn,99.000
+452,ostras,7cm,paga,57,30/03/2023,17/04/2023,marzo,803,sindicato,94872120BN,362.956
+565,ostras,8cm,paga,57,30/03/2023,17/04/2023,marzo,497,sindicato,94872120BN,280.805
+678,ostras,9cm,paga,57,30/03/2023,17/04/2023,marzo,105,sindicato,94872120BN,71.190
+,Alimentación,,,,,,marzo,,,,128.323
+,Combustible,,,,,,marzo,,,,339.089
+,DEPRECIACION,,,,,,marzo,,,,9.615
+,Encomiendas,,,,,,marzo,,,,2.831
+,Mantenimiento de vehículo,,,,,,marzo,,,,51.282
+,Parqueo,,,,,,marzo,,,,
+,Poliza Vehicular,,,,,,marzo,,,,
+,Riesgos del trabajo,,,,,,marzo,,,,
+,Seguro,,,,,,marzo,,,,2.701
+,Servicios contables,,,,,,marzo,,,,74.823
+,Suministros,,,,,,marzo,,,,3.738
+,Suministros de limpieza,,,,,,marzo,,,,
+,Teléfono,,,,,,marzo,,,,14.072
+,Uniformes,,,,,,marzo,,,,130.732
+,,,,,,,marzo,,,,0
+,,,,,,,marzo,,,,0
+105,ostras,65cm,paga,58,03/04/2023,17/04/2023,Abril,396,sindicato,94872120BN,41.580
+160,ostras,7cm,paga,58,03/04/2023,17/04/2023,Abril,452,sindicato,94872120BN,72.320
+248,ostras,8cm,paga,58,03/04/2023,17/04/2023,abril,576,sindicato,94872120BN,142.848
+401,ostras,9cm,paga,58,03/04/2023,17/04/2023,abril,678,sindicato,94872120BN,271.878
+303,ostras,10cm,paga,58,03/04/2023,24/04/2023,abril,791,sindicato,91338009bn,239.673
+465,ostras,7cm,paga,91,05/04/2023,24/04/2023,abril,452,venado,91037739bn,210.180
+35,ostras,,paga,91,05/04/2023,24/04/2023,abril,565,venado,91037739bn,19.775
+342,ostras,7,paga,92,05/04/2023,24/04/2023,abril,452,venado,91037739bn,154.584
+220,ostras,65CM,paga,92,05/04/2023,24/04/2023,abril,396,venado,91037739bn,87.032
+105,ostras,65CM,paga,93,12/04/2022,01/05/2023,abril,396,venado,99154694bn,41.580
+405,ostras,7cm,paga,93,12/04/2022,01/05/2023,abril,452,venado,99154694bn,183.060
+454,ostras,8cm,paga,93,12/04/2022,01/05/2023,abril,565,venado,99154694bn,256.510
+105,ostras,9cm,paga,93,12/04/2022,01/05/2023,abril,678,venado,99154694bn,71.190
+190,ostras,8cm,paga,59,12/04/2022,24/04/2023,abril,678,sindicato,91338009bn,128.820
+650,ostras,8cm,paga,60,12/04/2022,01/05/2023,abril,565,sindicato,99155798bn,367.250
+105,ostras,9cm,paga,60,12/04/2022,01/05/2023,abril,678,sindicato,99155798bn,71.190
+305,ostras,10cm,paga,60,12/04/2022,01/05/2023,abril,791,sindicato,99155798bn,241.255
+562,Ostras,8cm,paga,61,18/04/2022,01/05/2023,abril,565,sindicato,99155798bn,317.530
+203,Ostras,9cm,paga,61,18/04/2022,01/05/2023,abril,678,sindicato,99155798bn,137.634
+205,Ostras,10cm,paga,61,18/04/2022,01/05/2023,abril,791,sindicato,99155798bn,162.155
+104,Ostras,7CM,paga,61,18/04/2022,01/05/2023,abril,452,sindicato,99155798bn,47.008
+251,Ostras,8cm,paga,62,20/04/2022,08/05/2023,abril,565,sindicato,96177043bj,141.815
+105,Ostras,9cm,paga,62,20/04/2022,08/05/2023,abril,678,sindicato,96177043bn,71.190
+65,Ostras,10cm,paga,62,20/04/2022,08/05/2023,abril,791,sindicato,96177043bn,51.415
+258,Ostras,6.5cm,paga,94,21/04/2022,08/05/2023,abril,395,VENADO,96173399bn,101.910
+767,Ostras,7CM,paga,94,21/04/2022,08/05/2023,abril,452,VENADO,96173399bn,346.684
+403,Ostras,7cm,paga,95,27/04/2022,08/05/2023,abril,452,VENADO,93404978bn,182.156
+245,Ostras,8cm,paga,95,27/04/2022,08/05/2023,abril,565,VENADO,93404978bn,138.425
+468,Ostras,10cm,paga,63,27/04/2022,08/05/2023,abril,791,sindicato,93404978bn,370.188
+421,Ostras,9cm,paga,63,27/04/2022,08/05/2023,abril,678,sindicato,93404978bn,285.438
+105,Ostras,8cm,paga,63,27/04/2022,08/05/2023,abril,565,sindicato,93404978bn,59.325
+30,Ostras,10cm,paga,64,28/04/2022,08/05/2023,abril,791,sindicato,93404978bn,23.730
+105,Ostras,9cm,paga,64,28/04/2022,08/05/2023,abril,678,sindicato,93404978bn,71.190
+183,Ostras,6.5cm,paga,65,29/04/2022,08/05/2023,abril,396,sindicato,93404978bn,72.468
+203,Ostras,7cm,paga,65,29/04/2022,08/05/2023,abril,452,sindicato,93404978bn,91.756
+204,Ostras,8cm,paga,65,29/04/2022,08/05/2023,abril,565,sindicato,93404978bn,115.260
+155,Ostras,11cm,paga,65,29/04/2022,22/05/2023,abril,904,sindicato,90335719bn,140.120
+75,ostras,65,paga,684,25/04/2023,08/05/2023,abril,350,chira,96181874bn,26.250
+500,ostras,7cm,paga,684,25/04/2023,08/05/2023,abril,400,chira,96181874bn,200.000
+9.023,depuracion,99457,paga,,,,abril,20,,,180.460
+,Alimentación,,,,,,abril,,,,0
+,Combustible,,,,,,abril,,,,281576
+,DEPRECIACION,,,,,,abril,,,,10978
+,Encomiendas,,,,,,abril,,,,5287
+,Mantenimiento de Instalaciones,,,,,,abril,,,,123424
+,Mantenimiento de vehículo,,,,,,abril,,,,151328
+,Parqueo,,,,,,abril,,,,
+,Poliza Vehicular,,,,,,abril,,,,
+,Riesgos del trabajo,,,,,,abril,,,,
+,Seguro,,,,,,abril,,,,8200
+,Servicios contables,,,,,,abril,,,,39823
+,Sistema de facturación,,,,,,abril,,,,
+,Suministros,,,,,,abril,,,,
+,Suministros de limpieza,,,,,,abril,,,,
+,Teléfono,,,,,,abril,,,,14029
+,Uniformes,,,,,,abril,,,,3097
+400,ostras 225223,,paga,685,03/05/2023,22/05/2023,mayo,400,chira,90316487bn,160.000
+373,ostras,8cm,paga,96,03/05/2023,22/05/2023,mayo,565,VENADO,903331563bn,210.745
+105,ostras,9cm,paga,96,03/05/2023,22/05/2023,mayo,678,VENADO,903331563bn,71.190
+109,ostras,10CM,paga,66,05/05/2023,22/05/2023,mayo,791,Sindicato,90335719bn,86.219
+95,ostras,12CM,paga,66,05/05/2023,22/05/2023,mayo,1017,Sindicato,90335719bn,96.615
+78,ostras,6.5cm,paga,67,05/05/2023,22/05/2023,mayo,396,Sindicato,90335719bn,30.888
+304,ostras,7cm,paga,67,05/05/2023,22/05/2023,mayo,452,Sindicato,90335719bn,137.408
+254,ostras,8cm,paga,67,05/05/2023,22/05/2023,mayo,565,Sindicato,90335719bn,143.510
+38,ostras,10cm,paga,67,05/05/2023,22/05/2023,mayo,791,Sindicato,90335719bn,30.058
+1,Depuracion,9023 ostras de abril,paga,132101,,,mayo,,FUNDA,,180.459
+202,ostras,6.5cm,paga,99,10/05/2023,29/05/2023,mayo,395,VENADO,97368633bn,79.790
+374,ostras,8cm,paga,99,10/05/2023,29/05/2023,mayo,565,VENADO,97368633bn,211.310
+104,ostras,9cm,paga,99,10/05/2023,29/05/2023,mayo,678,VENADO,97368633bn,70.512
+100,OSTRAS,6.5cm,paga,100,17/05/2023,05/06/2023,mayo,395,VENADO,95436325bn,39.500
+496,OSTRAS,7CM,paga,100,17/05/2023,05/06/2023,mayo,452,VENADO,95436325bn,224.192
+300,OSTRAS,8CM,paga,100,17/05/2023,05/06/2023,mayo,565,VENADO,95436325bn,169.500
+304,OSTRAS,7CM,paga,68,17/05/2023,29/05/2023,mayo,452,Sindicato,97373341bn,137.408
+304,OSTRAS,8CM,paga,68,17/05/2023,29/05/2023,mayo,565,Sindicato,97373341bn,171.760
+75,OSTRAS,,paga,68,17/05/2023,29/05/2023,mayo,678,Sindicato,97373341bn,50.850
+80,OSTRAS,6.5CM,paga,69,17/05/2023,05/06/2023,mayo,395,Sindicato,954349904bn,31.600
+353,OSTRAS,7CM,paga,69,17/05/2023,05/06/2023,mayo,452,Sindicato,954349904bn,159.556
+354,OSTRAS,8CM,paga,69,17/05/2023,05/06/2023,mayo,565,Sindicato,954349904bn,200.010
+400,ostras,7,paga,689,09/05/2023,29/05/2023,mayo,400,chira,97364626bn,160.000
+189,ostras,65cm,paga,690,23/05/2023,12/06/2023,mayo,350,chira,92145757bn,66.150
+405,ostras,7cm,paga,690,23/05/2023,12/06/2023,mayo,400,chira,92145757bn,162.000
+26,ostras,7cm,paga,101,24/05/2023,15/06/2023,mayo,452,VENADO,95664960bn,11.752
+1643,ostras,8CM,paga,101,24/05/2023,15/06/2023,mayo,565,VENADO,95664960bn,928.295
+26,ostras,10cm,paga,101,24/05/2023,15/06/2023,mayo,791,venado,95664960bn,20.566
+555,ostras,8cm,paga,70,30/05/2023,15/06/2023,mayo,565,SINdicato,95667995bn,313.575
+45,ostras,9cm,paga,70,30/05/2023,15/06/2023,mayo,900,SINdicato,95667995bn,40.500
+155,ostras,7cm,paga,70,30/05/2023,15/06/2023,mayo,452,sindicato,95667995bn,70.060
+395,ostras,7cm,paga,71,30/05/2023,15/06/2023,mayo,452,sindicato,95667995bn,178.540
+550,ostras,8cm,paga,71,30/05/2023,15/06/2023,mayo,565,sindicato,95667995bn,310.750
+80,ostras,6.5cm,paga,71,30/05/2023,15/06/2023,mayo,396,sindicato,95667995bn,31.680
+35,ostras,11cm,paga,71,30/05/2023,15/06/2023,mayo,904,sindicato,95667995bn,31.640
+,iva,,,,,,mayo,,,,59.303
+,Alimentación,,,,,,mayo,,,,163576
+,Combustible,,,,,,mayo,,,,320765
+,DEPRECIACION,,,,,,mayo,,,,11660
+,Encomiendas,,,,,,mayo,,,,
+,Mantenimiento de Instalaciones,,,,,,mayo,,,,18196
+,Mantenimiento de vehículo,,,,,,mayo,,,,7047
+,Parqueo,,,,,,mayo,,,,
+,Poliza Vehicular,,,,,,mayo,,,,
+,Riesgos del trabajo,,,,,,mayo,,,,
+,Seguro,,,,,,mayo,,,,4842
+,Servicios contables,,,,,,mayo,,,,39823
+,Sistema de facturación,,,,,,mayo,,,,
+,Suministros,,,,,,mayo,,,,
+,Suministros de limpieza,,,,,,mayo,,,,
+,Teléfono,,,,,,mayo,,,,24218
+,Maricsos,,,,,,mayo,,,,834.000
+504,OSTRAS,6.5CM,paga,691,06/06/2023,19/06/2023,junio,400,CHIRA,90677052bn,201.600
+80,OSTRAS,6.5CM,paga,691,06/06/2023,19/06/2023,junio,350,CHIRA,90677052bn,28.000
+1,Depuracion,Por servicio de depuración de 10316 (10194 de BM y 122 del sindicato,paga,134306,06/06/2023,,junio,206.319,Funda,,206.319
+141,ostras,ostras de 65,paga,72,08/06/2023,26/06/2023,junio,395,sindicato,97157928bn,55.695
+455,ostras,ostras de 7,paga,72,08/06/2023,26/06/2023,junio,452,sindicato,97157928bn,205.660
+180,ostras,ostras de 8,paga,72,08/06/2023,26/06/2023,junio,565,sindicato,97157928bn,101.700
+84,ostras,ostras de 9,paga,72,08/06/2023,26/06/2023,junio,678,sindicato,97157928bn,56.952
+80,ostras,ostras 65,paga,691,06/06/2023,19/06/2023,junio,350,chira,90677052bn,28.000
+504,ostras,ostras 7,paga,691,06/06/2023,19/06/2023,junio,400,chira,90677052bn,201.600
+453,ostras,ostras de 8,paga,102,08/06/2023,26/06/2023,junio,565,venada,97159183bn,255.945
+103,ostras,ostras de 7,paga,102,08/06/2023,26/06/2023,junio,678,venada,97159183bn,69.834
+599,OSTRAS,ostras,paga,73,08/06/2023,03/07/2023,junio,452,sindicato,95276319bn,270.748
+276,OSTRAS,ostras,paga,73,08/06/2023,03/07/2023,junio,565,sindicato,95276319bn,155.940
+280,ostras,ostras de 7,paga,103,15/06/2023,03/07/2023,junio,452,venada,9527968bn,126.560
+210,ostras,ostras de 8,paga,103,15/06/2023,03/07/2023,junio,565,venada,9527968bn,118.650
+236,ostras,ostras de 9,paga,103,15/06/2023,03/07/2023,junio,678,venada,9527968bn,160.008
+31,ostras,ostras 10,paga,103,15/06/2023,03/07/2023,junio,791,venada,9527968bn,24.521
+115,ostras,7cm,paga,74,17/06/2023,03/07/2023,junio,452,sindicato,95276319bn,51.980
+205,ostras,7cm,paga,75,17/06/2023,03/07/2023,junio,452,sindicato,95276319bn,92.660
+41,ostras,9cm,paga,75,17/06/2023,03/07/2023,junio,678,sindicato,95276319bn,27.798
+253,ostras,8cm,paga,75,17/06/2023,03/07/2023,junio,565,sindicato,95276319bn,142.945
+74,ostras,6.5cm,paga,75,17/06/2023,10/07/2023,junio,395,sindicato,92156054bn,29.230
+494,ostras,7cm,paga,104,18/06/2023,10/07/2023,junio,452,venada,92158954bn,223.288
+48,ostras,6.5cm,paga,105,23/06/2023,10/07/2023,junio,395,venada,92158954bn,18.960
+280,ostras,7cm,paga,105,23/06/2023,10/07/2023,junio,452,venada,92158954bn,126.560
+270,ostras,8cm,paga,105,23/06/2023,10/07/2023,junio,565,venada,92158954bn,152.550
+100,ostras,9cm,paga,105,23/06/2023,10/07/2023,junio,678,venada,92158954bn,67.800
+218,ostras,8cm,paga,76,26/06/2023,10/07/2023,junio,565,sindicato,92156054bn,123.170
+305,ostras,7cm,paga,76,26/06/2023,10/07/2023,junio,452,sindicato,92156054bn,137860
+,MARISCOS,,PAGA,,,,junio,,,,747.200
+,MARISCOS,,PAGA,,,,junio,,,,127.200
+66,ostras,65cm,paga,697,22/06/2023,10/07/2023,junio,350,chira,92184419bn,23.100
+470,ostras,7cm,paga,697,22/06/2023,10/07/2023,junio,400,chira,92184419bn,188.000
+288,ostras,7cm,paga,106,28/06/2023,,junio,452,venado,,130.176
+144,ostras,8cm,paga,106,28/06/2023,,junio,565,venado,,81.360
+105,ostras,9cm,paga,106,28/06/2023,,junio,678,venado,,71.190
+,IVA,,,,,,junio,,,,261.251
+,Alimentación,,,,,,junio,,,,7248
+,Combustible,,,,,,junio,,,,195369
+,DEPRECIACION,,,,,,junio,,,,11660
+,Encomiendas,,,,,,junio,,,,
+,Mantenimiento de Instalaciones,,,,,,junio,,,,
+,Mantenimiento de vehículo,,,,,,junio,,,,
+,Parqueo,,,,,,junio,,,,
+,Poliza Vehicular,,,,,,junio,,,,141630
+,Riesgos del trabajo,,,,,,junio,,,,
+,Seguro,,,,,,junio,,,,3549
+,Servicios contables,,,,,,junio,,,,39823
+,Sistema de facturación,,,,,,junio,,,,31200
+,Suministros,,,,,,junio,,,,
+,Suministros de limpieza,,,,,,junio,,,,3761
+,Teléfono,,,,,,junio,,,,18966
+,Uniformes,,,,,,junio,,,,
+,MARISCOS,,,,,,junio,,roni,,242.000
+,,,,,,,junio,,,,0
+,,,,,,,julio,,,,
+60,OSTRAS,6.5CM,Paga,108,05/07/2023,,julio,3955,VENADO,,23.730
+407,OSTRAS,7CM,Paga,108,05/07/2023,,julio,452,VENADO,,183.964
+227,OSTRAS,8CM,Paga,108,05/07/2023,,julio,565,VENADO,,128.255
+66,OSTRAS,9CM,Paga,108,05/07/2023,,julio,678,VENADO,,44.748
+610,OSTRAS,7CM,Paga,109,12/07/2023,,julio,452,VENADO,,275.720
+323,OSTRAS,8CM,Paga,109,12/07/2023,31/07/2023,julio,565,VENADO,saldo pend de 400361,182.495
+83,OSTRAS,9CM,Paga,109,12/07/2023,31/07/2023,julio,678,VENADO,saldo pend de 400361,56.274
+175,OSTRAS,6.5CM,Paga,77,03/07/2023,17/07/2023,julio,3955,SINDICATO,90154803bn,69.213
+854,OSTRAS,7CM,Paga,77,03/07/2023,17/07/2023,julio,452,SINDICATO,90154803bn,386.008
+60,OSTRAS,8CM,Paga,77,03/07/2023,17/07/2023,julio,565,SINDICATO,90154803bn,33.900
+403,OSTRAS,7CM,Paga,78,11/07/2023,24/07/2023,julio,452,SINDICATO,97258415bn,182.156
+140,OSTRAS,8CM,Paga,78,11/07/2023,24/07/2023,julio,565,SINDICATO,97258415bn,79.100
+8.299,ostras,depuracion,Paga,136778,11/07/2023,,julio,20,funda una,,165.980
+361,ostras,7cm,Paga,110,20/07/2023,07/08/2023,julio,452,VENADO,92568796bn,163.172
+125,ostras,8cm,Paga,110,20/07/2023,07/08/2023,julio,565,VENADO,92568796bn,70.625
+100,ostras,9cm,Paga,110,20/07/2023,07/08/2023,julio,678,VENADO,92568796bn,67.800
+55,ostras,6.5cm,Paga,79,25/07/2023,31/07/2023,julio,396,SINDICATO,94979246bn,21.753
+399,ostras,7cm,Paga,79,25/07/2023,31/07/2023,julio,452,SINDICATO,94979246bn,180.348
+100,ostras,8cm,Paga,79,25/07/2023,31/07/2023,julio,565,SINDICATO,94979246bn,56.500
+105,ostras,6.5cm,Paga,80,25/07/2023,07/08/2023,julio,396,SINDICATO,92570428bn,41.528
+576,ostras,7cm,Paga,80,25/07/2023,07/08/2023,julio,452,SINDICATO,92570428bn,260.352
+94,ostras,8cm,Paga,80,25/07/2023,07/08/2023,julio,565,SINDICATO,92570428bn,53.110
+300,ostras,7cm,Paga,111,27/07/2023,14/08/2023,julio,452,VENADO,90030598bn,135.600
+198,ostras,8cm,Paga,111,27/07/2023,14/08/2023,julio,565,VENADO,90030598bn,111.870
+50,ostras,8.5cm,Paga,111,27/07/2023,14/08/2023,julio,565,VENADO,90030598bn,28.250
+52,ostras,9cm,Paga,111,27/07/2023,14/08/2023,julio,678,VENADO,90030598bn,35.256
+54,ostras,6.5cm,Paga,150,29/07/2023,14/08/1981,julio,396,CERRO GORDO,90098271bn,21.357
+407,ostras,7cm,Paga,150,29/07/2023,14/08/1981,julio,452,CERRO GORDO,90098271bn,183.964
+304,ostras,7cm,Paga,81,31/07/2023,,julio,452,SINDICATO,90033070bn,137.408
+80,ostras,8cm,Paga,81,31/07/2023,,julio,565,SINDICATO,90033070bn,45.200
+,iva,,,,,,julio,,,,246.712
+6.230,depuracion,,,,,14/08/2023,julio,20,,90061386 bn,124.600
+,MARISCOS,,,,,,julio,,,,766.250
+,,,,,,,julio,,,,839.150
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+,,,,,,,julio,,,,0
+no apunte,agosto,ostras,,Paga,,,agosto,,acuamar,,
+180,ostras,8cm,Paga,82,15/08/2023,28/08/2023,agosto,565,sindicato,96583413bac,101.700
+899,ostras,7cm,Paga,82,15/08/2023,28/08/2023,agosto,452,sindicato,96583413bac,406.348
+104,ostras,65cm,Paga,82,15/08/2023,28/08/2023,agosto,3955,sindicato,96583413bac,41.132
+400,ostras,8cm,Paga,112,19/08/2023,04/09/2023,agosto,565,venado,96297894bn,226.000
+108,ostras,9cm,Paga,112,19/08/2023,04/09/2023,agosto,678,venado,96297894bn,73.224
+36,ostras,10cm,Paga,112,19/08/2023,04/09/2023,agosto,791,venado,96297894bn,28.476
+105,ostras,65,Paga,83,30/08/2023,,agosto,3955,sindicato,92401955y9508875bn,41.528
+854,ostras,67cm,Paga,83,30/08/2023,,agosto,452,sindicato,92401955y9508875bn,386.008
+122,ostras,8cm,Paga,83,30/08/2023,,agosto,565,sindicato,92401955y9508875bn,68.930
+,MARISCOS,,Paga,,,,agosto,,rony,,
+6230,DEPURACION,,Paga,,,,agosto,20,,,124.600
+,,,,,,,agosto,,,,80.015
+,,,,,,,agosto,,,,201.079
+,,,,,,,agosto,,,,11.660
+,,,,,,,agosto,,,,2.691
+,,,,,,,agosto,,,,39.823
+,,,,,,,agosto,,,,35.000
+,,,,,,,agosto,,,,10.495
+,,,,,,,agosto,,,,10.495
+,,,,,,,agosto,,,,18.939
+,,,,,,,agosto,,,,30.884
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,agosto,,,,0
+,,,,,,,septiembre,,,,0
+633,ostras,de 789cm,paga,,03/09/2023,,septiembre,699,acuamar,,442.467
+8.447,Depuacion de agosto,una,,,04/09/2023,,septiembre,20,,,168.940
+200,ostras,65,paga,84,06/09/2023,25/09/2023,septiembre,396,sindicato,90482396bn,79.100
+267,ostras,7cm,paga,84,06/09/2023,25/09/2023,septiembre,452,sindicato,90482396bn,120.684
+85,ostras,65,paga,113,08/09/2023,26/09/2023,septiembre,396,venano,91164361bn,33.618
+803,ostras,7cm,paga,113,08/09/2023,26/09/2023,septiembre,452,venano,91164361bn,362.956
+903,ostras,7cm,paga,85,,02/10/2023,septiembre,452,sindicato,90132588bn,408.156
+205,ostras,8cm,paga,85,,02/10/2023,septiembre,565,sindicato,90132588bn,115.825
+84,ostras,65,paga,114,16/09/2023,02/10/2023,septiembre,396,venado,90133706bn,33.222
+501,ostras,7cm,paga,114,16/09/2023,02/10/2023,septiembre,452,venado,90133706bn,226.452
+247,ostras,8cm,paga,114,16/09/2023,02/10/2023,septiembre,565,venado,90133706bn,139.555
+180,Depuracion de ostras 1739,Fundacion de la universidad CR,paga,1.73900,21/09/2023,,septiembre,1.63700,FUNDA UNA,,294.660
+,MARICOS,,,,,,septiembre,,,,353.500
+504,ostras,7cm,paga,86,26/09/2023,09/10/2023,septiembre,452,sindicato,98123253bn,227.808
+36,ostras,8cm,paga,86,26/09/2023,09/10/2023,septiembre,565,sindicato,98123253bn,20.340
+217,ostras,65,paga,115,30/09/2023,18/10/2023,septiembre,397,venado,19864431bn,86.041
+590,ostras,7cm,paga,115,30/09/2023,18/10/2023,septiembre,452,venado,19864431bn,266.680
+4.351,ostras,depuracion,paga,,,10/10/2023,septiembre,20,,99273989bn,87.020
+,hacienda,iva,,,,,septiembre,,,,119.129
+,,,,,,,septiembre,,,,44.725
+,,,,,,,septiembre,,,,51.125
+,,,,,,,septiembre,,,,102.923
+,,,,,,,septiembre,,,,11.660
+,,,,,,,septiembre,,,,8.325
+,,,,,,,septiembre,,,,796
+,,,,,,,septiembre,,,,3.264
+,,,,,,,septiembre,,,,5.441
+,,,,,,,septiembre,,,,39.823
+,,,,,,,septiembre,,,,7.920
+,,,,,,,septiembre,,,,22.624
+,mariscos,roni,,,,,septiembre,,,,521.500
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+,,,,,,,septiembre,,,,0
+183,ostras,7cm,paga,116,06/10/2023,23/10/2023,octubre,452,venado,95796316bn,82.716
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+203,ostras,7cm,paga,88,07/10/2023,16/10/2023,octubre,452,sindicato,96639850 bn,91.756
+90,ostraw,65,paga,89,07/10/2023,16/10/2023,octubre,396,sindicato,96639850 bn,35.595
+358,ostraw,7cm,paga,89,07/10/2023,16/10/2023,octubre,452,sindicato,96639850 bn,161.816
+598,ostras,7cm,paga,90,18/10/2023,31/10/2023,octubre,452,sindicato,95137223bn,270.296
+,mariscos,,paga,,,,octubre,,roni,,758.800
+,,,,,,,octubre,,,,81.175
+,,,,,,,octubre,,,,106.387
+,,,,,,,octubre,,,,134.557
+,,,,,,,octubre,,,,11.660
+,,,,,,,octubre,,,,2.654
+,,,,,,,octubre,,,,7.747
+,,,,,,,octubre,,,,
+,,,,,,,octubre,,,,26.880
+,,,,,,,octubre,,,,5.424
+,,,,,,,octubre,,,,39.823
+,,,,,,,octubre,,,,35.000
+,,,,,,,octubre,,,,19.223
+,,,,,,,octubre,,,,18.911
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+,,,,,,,octubre,,,,0
+120,ostras,65cm,PAGA,91,09/11/2023,09/11/2023,noviembre,396,sindicato,97169502bn,47.460
+802,ostras,7cm,PAGA,91,09/11/2023,09/11/2023,noviembre,452,sindicato,97169502bn,362.504
+96,ostras,8cm,PAGA,91,09/11/2023,09/11/2023,noviembre,565,sindicato,97169502bn,54.240
+504,ostras,7cm,PAGA,92,09/11/2023,20/11/2023,noviembre,452,sindicato,1120955bn,227.808
+205,ostras,8cm,PAGA,92,09/11/2023,20/11/2023,noviembre,565,sindicato,1120955bn,115.825
+75,ostras,65cm,PAGA,92,09/11/2023,20/11/2023,noviembre,396,sindicato,1120955bn,29.663
+1.000,OSTRAS,7CM,PAGA,SIN,10/11/2023,11/11/2023,noviembre,400,ACUA,sin refenc,400.000
+75,OSTRAS,65CM,PAGA,93,13/11/2023,27/11/2023,noviembre,396,sindicato,99821389bn,29.663
+646,OSTRAS,7CM,PAGA,93,13/11/2023,27/11/2023,noviembre,452,sindicato,99821389bn,291.992
+160,OSTRAS,8cm,PAGA,93,13/11/2023,27/11/2023,noviembre,565,sindicato,99821389bn,90.400
+605,ostras,7cm,PAGA,94,19/11/2023,,noviembre,452,sindicato,90071955 BN93330056,273.460
+152,ostras,8cm,PAGA,94,19/11/2023,,noviembre,565,sindicato,90071955 BN93330056,85.880
+459,ostras,6cm,PAGA,117,16/11/2023,,noviembre,283,venado,,129.668
+556,ostras,7cm,PAGA,117,16/11/2023,11/12/2023,noviembre,452,venado,90499753bn,251.312
+220,ostras,8cm,PAGA,117,16/11/2023,11/12/2023,noviembre,565,venado,90499753bn,124.300
+11,ostras,9cm,PAGA,117,16/11/2023,11/12/2023,noviembre,678,venado,90499753bn,7.458
+447,OSTRAS,7CM,PAGA,118,25/11/2023,11/12/2023,noviembre,452,VENADO,90499753bn,202.044
+160,OSTRAS,8CM,PAGA,118,25/11/2023,11/12/2023,noviembre,565,VENADO,90499753bn,90.400
+40,OSTRAS,9CM,PAGA,118,25/11/2023,11/12/2023,noviembre,678,VENADO,90499753bn,27.120
+705,OSTRAS,OSTRAS DE TODO TAMANO,PAGA,SIN,,24/11/2023,noviembre,400,ACUA,40403265BAC,282.000
+447,ostras,7cm,PAGA,119,25/11/2023,18/12/2023,noviembre,452,venado,91485607bn,202.044
+160,ostras,8cm,PAGA,119,25/11/2023,18/12/2023,noviembre,565,venado,91485607bn,90.400
+40,ostras,9cm,PAGA,119,25/11/2023,18/12/2023,noviembre,678,venado,91485607bn,27.120
+,mariscos,,,,,,noviembre,,roni,,659.100
+,,,,,,,noviembre,,,,0
+,,,,,,,noviembre,,,,54.383
+,,,,,,,noviembre,,,,239.924
+,,,,,,,noviembre,,,,11.660
+,,,,,,,noviembre,,,,19.752
+,,,,,,,noviembre,,,,283.500
+,,,,,,,noviembre,,,,1.769
+,,,,,,,noviembre,,,,2.763
+,,,,,,,noviembre,,,,39.823
+,,,,,,,noviembre,,,,82.265
+,,,,,,,noviembre,,,,18.912
+,,,,,,,noviembre,,,,11.468
+105,ostras,65cm,PAGA,95,06/12/2023,20/12/2023,diciembre,396,sindicato,94003500bn,41.528
+1.005,ostras,7cm,PAGA,95,06/12/2023,20/12/2023,diciembre,452,sindicato,94003500bn,454.260
+350,ostras,8cm,PAGA,95,06/12/2023,,diciembre,565,sindicato,94003500bn/90042194bn,197.750
+176,ostras,6cm,PAGA,121,16/12/2023,08/01/2024,diciembre,396,venado,95502397bn,69.608
+564,ostras,7cm,PAGA,121,16/12/2023,08/01/2024,diciembre,452,venado,95502397bn,254.928
+385,ostras,8cm,PAGA,121,16/12/2023,08/01/2024,diciembre,565,venado,95502397bn,217.525
+35,ostras,9cm,PAGA,121,16/12/2023,08/01/2024,diciembre,678,venado,95502397bn,23.730
+13,ostras,10cm,PAGA,121,16/12/2023,08/01/2024,diciembre,791,venado,95502397bn,10.283
+175,ostras,65cm,PAGA,96,19/12/2023,25/12/2023,diciembre,396,sindicato,90042194bn,69.213
+1.002,ostras,7cm,PAGA,96,19/12/2023,25/12/2023,diciembre,452,sindicato,90042194bn,452.904
+405,ostras,8cm,PAGA,96,19/12/2023,25/12/2023,diciembre,565,sindicato,90042194bn,228.825
+20,ostras,9cm,PAGA,96,19/12/2023,25/12/2023,diciembre,678,sindicato,90042194bn,13.560
+205,ostras,6.5cm,PAGA,97,21/12/2024,,diciembre,396,sindicato,97639966bn,81.078
+255,ostras,7cm,PAGA,97,21/12/2024,,diciembre,452,sindicato,97639966bn,115.260
+203,ostras,8cm,PAGA,97,21/12/2024,,diciembre,565,sindicato,97639966bn,114.695
+507,ostras,7cm,PAGA,155,16/12/2023,01/01/2024,diciembre,452,Cerro Gordo,97633793bn,229.164
+182,ostras,65cm,PAGA,124,22/12/2023,15/01/2024,diciembre,396,venado,93487792bn,71.981
+1.994,ostras,7cm,PAGA,124,22/12/2023,15/01/2024,diciembre,452,venado,93487792bn,901.288
+606,ostras,8cm,PAGA,124,22/12/2023,15/01/2024,diciembre,565,venado,93487792bn,342.390
+125,ostras,9cm,PAGA,124,22/12/2023,15/01/2024,diciembre,678,venado,93487792bn,84.750
+,,,PAGA,,,,diciembre,,,,0
+,,,,,,,diciembre,,,,44.72096
+,,,,,,,diciembre,,,,105.76555
+,,,,,,,diciembre,,,,91.10700
+,,,,,,,diciembre,,,,11.66001
+,,,,,,,diciembre,,,,3.250
+,,,,,,,diciembre,,,,39.823
+,,,,,,,diciembre,,,,18.154
+,,,,,,,diciembre,,,,18.887
+703,ostras,7cm,PAGA,125,29/12/2023,22/01/2024,diciembre,452,venado,92164599bn,317.756
+275,ostras,8cm,PAGA,125,29/12/2023,22/01/2024,diciembre,565,venado,92164599bn,155.375
+76,ostras,9cm,PAGA,125,29/12/2023,22/01/2024,diciembre,678,venado,92164599bn,51.528
+39,ostras,10cm,PAGA,125,29/12/2023,22/01/2024,diciembre,791,venado,92164599bn,30.849
+,mariscos,,,,,,diciembre,,roni,,839.900
+,,,,,,,diciembre,,,,0
+,,,,,,,diciembre,,,,
+,,,,,,,diciembre,,,,0

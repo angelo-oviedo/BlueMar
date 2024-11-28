@@ -6,19 +6,30 @@ from datetime import datetime
 from io import StringIO
 
 # Directories for local testing
-LOCAL_INPUT_DIR = "dags/batch_job_config/local-input"
-LOCAL_OUTPUT_DIR = "dags/batch_job_config/local-output"
+LOCAL_INPUT_DIR = "dags/functions/local-input"
+LOCAL_OUTPUT_DIR = "dags/functions/local-output"
 
 def convert_date(fecha, formats=['%d-%m-%y', '%d/%m/%y', '%d/%m/%Y']):
     """
     Attempts to convert a date string to a standardized format.
+    Returns None if the date is invalid.
     """
     for fmt in formats:
         try:
             return datetime.strptime(fecha, fmt).strftime('%d/%m/%Y')
         except ValueError:
             continue
-    return "n/a"
+    return None
+
+def clean_value(value):
+    """
+    Cleans a single cell value by removing unwanted symbols and cleaning numeric values.
+    """
+    if value.lower() in ('n/a', 'null', ''):
+        return None
+    # Remove '₡' symbol and commas
+    value = re.sub(r'[₡,]', '', value).strip()
+    return value
 
 def process_csv(input_file, columns_to_keep, numeric_cols, date_cols, title_cols):
     """
@@ -33,22 +44,24 @@ def process_csv(input_file, columns_to_keep, numeric_cols, date_cols, title_cols
 
     cleaned_data = []
     for row in csv_reader:
-        cleaned_row = {header: "n/a" for header in headers}
+        cleaned_row = {header: None for header in headers}
         for idx, header in zip(indices_to_keep, headers):
             if idx < len(row):
-                value = row[idx].strip().lower()
+                value = row[idx].strip()
+                value = clean_value(value)
 
-                if header in date_cols:
-                    value = convert_date(value)
+                if value is not None:
+                    if header in date_cols:
+                        value = convert_date(value)
 
-                if header in numeric_cols:
-                    value = re.sub(r'[₡,]', '', value)
-                    value = value if value.replace('.', '', 1).isdigit() else "n/a"
+                    if header in numeric_cols:
+                        # Ensure numeric validity
+                        value = value if value.replace('.', '', 1).isdigit() else None
 
-                if header in title_cols:
-                    value = value.title() if value != "" else "n/a"
+                    if header in title_cols:
+                        value = value.title() if value else None
 
-                cleaned_row[header] = value if value != "" else "n/a"
+                cleaned_row[header] = value
         cleaned_data.append(cleaned_row)
 
     df = pd.DataFrame(cleaned_data)
@@ -86,7 +99,7 @@ def main():
     os.makedirs(LOCAL_OUTPUT_DIR, exist_ok=True)  # Ensure output directory exists
 
     cleaning_jobs = [
-        ("Gastos_operativos", "gastos_operativos.csv", "processed_gastos_operativos.csv",
+        ("Gastos_operativos", "gastos-operativos.csv", "processed_gastos_operativos.csv",
         ["cantidad_", "concepto_", "descripcion_", "estado_factura", "factura", "fecha", "fecha_de_pago", "mes", "monto_unitario", "proveedor_", "referencia_banco", "total"],
         ["cantidad_", "monto_unitario", "total"], ["fecha", "fecha_de_pago"], ["proveedor_"]),
         
@@ -94,11 +107,11 @@ def main():
         ["cantidad", "cliente", "estado_factura", "factura", "fecha", "mes", "precio_unitario", "referencia_banco", "talla", "total"],
         ["precio_unitario", "total"], ["fecha"], ["cliente"]),
 
-        ("Inventario_de_activos", "inventario_de_activos.csv", "processed_inventario_de_activos.csv",
+        ("Inventario_de_activos", "inventario-de-activos.csv", "processed_inventario_de_activos.csv",
         ["activo", "ano_de_adquisicion", "cantidad_", "costo", "fuente_de_financiamiento", "tipo", "total"],
         ["cantidad_", "costo", "total"], [], ["activo", "tipo", "fuente_de_financiamiento"]),
         
-        ("Pago_planillas", "pago_planillas.csv", "processed_pago_planillas.csv",
+        ("Pago_planillas", "pago-planillas.csv", "processed_pago_planillas.csv",
         ["costo_por_hora", "fecha_del_pago", "horas_trabajadas", "mes", "nombre_del_colaborador", "pago_total"],
         ["costo_por_hora", "pago_total"], ["fecha_del_pago"], ["nombre_del_colaborador"]),
     ]

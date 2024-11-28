@@ -1,0 +1,681 @@
+cantidad,cliente,estado_factura,factura,fecha,mes,precio_unitario,referencia_banco,talla,total
+120,Saenz,paga,1344,04/01/2023,Enero,90400,406403408BAC,7cm,108.48000
+60,3-101-73,paga,1345`,04/01/2023,Enero,1.13000,7584690bac,10cm,67.80000
+,Anulada,,1346,04/01/2023,enero,,,,
+100,Jardines,paga,1347,04/01/2023,enero,1.01700,666407034 BAC,8cm,101.70000
+,Jardines,paga,1347,04/01/2023,enero,22.60000,666407034 BAC,CAMARONES 15,339.00000
+24,La  Cascada De Escazu,paga,1348,04/01/2023,enero,1.01700,,8CM,24.40800
+30,Esquina Inka,paga,1349,04/01/2023,enero,1.01700,406406056bac,8cm,30.51000
+106,Hlk Sa,paga,1350,04/01/2023,enero,67800,406407966bac,6.5CM,71.86800
+350,Coco Beer,paga,1351,06/01/2023,enero,75000,19956525bn,7cm,262.50000
+400,Maraki Family Itda,paga,1352,06/01/2023,enero,90400,9812324BAC,7cm,361.60000
+200,Hacienda Alta Gracias,paga,1353,06/01/2023,enero,90400,1671502BAC,7cm,180.80000
+,Nula,,1354,09/01/2023,enero,,,,
+,Nula,,1354,09/01/2023,enero,,,,
+205,3-101-73,paga,1355,09/01/2023,enero,1.13000,406408951 bac,10CM,231.65000
+,Anulada,,1356,09/01/2023,enero,,,,000
+155,Coco Beer,paga,1357,11/01/2023,enero,75000,16031042BAC,6.5cm,116.25000
+16,Coco Beer,paga,1357,11/01/2023,enero,75000,16031042BAC,6.5cm,12.00000
+103,Calimardo,paga,1358,11/01/2023,enero,90400,406404748bac,8cm,93.11200
+500,Maraki Family Itda,paga,1359,11/01/2023,enero,90400,7987646BAC,7cm,452.00000
+303,Sendero Restaurant Limitada,paga,1360,11/01/2023,enero,90400,406407248bac,7cm,273.91200
+300,Sendero Restaurant Limitada,paga,1360,11/01/2023,enero,1.01700,406407248bac,8cm,305.10000
+,Anulada,,1361,,enero,,,,000
+60,Elizos Y Algas,paga,1362,12/01/2023,enero,96000,406403765BAC,,57.60000
+100,Jardines,paga,1363,12/01/2023,enero,1.01700,66640088bac,8CM,101.70000
+110,Saenz,paga,1364,13/01/2023,enero,90400,406407372BAc,7CM,99.44000
+325,Jardines,paga,1365,18/01/2023,enero,1.01700,666406268bac,8CM,330.52500
+,Anulada,,1366,,enero,,,,000
+110,Saenz,paga,1367,18/01/2023,enero,90400,406408052BAC,7CM,99.44000
+205,Coco Beer,paga,1368,18/01/2023,enero,75000,13198379bn,,153.75000
+16,Coco Beer,paga,1368,18/01/2023,enero,75000,,,12.00000
+250,Calimardo,paga,1369,18/01/2023,enero,90400,406404748bac,8cm,226.00000
+400,Maraki Family Itda,paga,1370,18/01/2023,enero,90400,7121069BAC,7cm,361.60000
+100,Adomicili,paga,sin refenc,,enero,50000,,65,50.00000
+832,Adomicili,paga,sin refenc,,enero,80000,,700,665.60000
+40,Adomicili,paga,sin refenc,,enero,1.09000,,900,43.60000
+240,Adomicili,paga,sin refenc,,enero,1.35000,,1000,324.00000
+30,La Cascada De Escazu,paga,1371,18/01/2023,enero,1.01700,,8cm,30.51000
+200,3-101-73,paga,1372,19/01/2023,enero,1.13000,7621918bac,9CM,226.00000
+100,Calimardo,paga,1373,19/01/2023,enero,90400,406404748bac,8cm,90.40000
+100,Calimardo,paga,1373,19/01/2023,enero,79100,406404748bac,7cm,79.10000
+,Jardines,paga,1374,20/01/2023,enero,,666406268bac,CAMARONES,339.00000
+105,Hlk Sa,paga,1375,20/01/2023,enero,67800,406407966bac,6.5CM,71.19000
+430,Calimardo,paga,1376,20/01/2023,enero,90400,406405511bac,8CM,388.72000
+22,Esquina Inka,paga,1377,23/01/0201,enero,1.01700,,8CM,22.37400
+40,Ready Pizza,paga,1378,23/01/2023,enero,1.56700,,,62.68000
+153,Jardines,paga,1379,25/01/2023,enero,1.01700,666406268bac,8CM,155.60100
+155,3-101-73,paga,1380,26/01/2023,enero,1.13000,7639166bac,10CM,175.15000
+30,La Cascada De Escazu,paga,1381,27/01/2023,enero,1.01700,666401598bac,8cm,30.51000
+88,The Tree House Srla,paga,1382,27/01/2023,enero,1.01700,406402468bac,8CM,89.49600
+30,The Tree House Srla,paga,1382,27/01/2023,enero,1.01700,406402468bac,8CM,30.51000
+,Krazy Kinkajou,paga,1383,27/01/2023,enero,,71760886bac,CAMARON,16.38500
+72,Krazy Kinkajou,paga,1383,27/01/2023,enero,90400,970453404bac,7cm,65.08800
+100,Saenz,paga,1384,27/01/2023,enero,90400,970453404bac,7cm,90.40000
+50,Hlk Sa,paga,1385,27/01/2023,enero,67800,406406054bac,650,33.90000
+150,Coco Beer,paga,1386,27/01/2023,enero,75000,19503525bn,6CM,112.50000
+18,Coco Beer,paga,1386,27/01/2023,enero,75000,19503525bn,6CM,13.50000
+204,Sendero Restaurant Limitada,paga,1387,27/01/2023,enero,90400,406403429bac,7CM,184.41600
+400,Maraki Family Itda,paga,1388,27/01/2023,enero,90400,2504615bac,7CM,361.60000
+62,Calimardo,paga,1389,27/01/2023,enero,90400,406404748bac,8CM,56.04800
+150,Jardines,paga,1390,27/01/2023,enero,1.01700,,8CM,152.55000
+,,,,,enero,,,,000
+,,,,,enero,,,,000
+,,,,,enero,,,,000
+,,,,,enero,,,,000
+,,,,,enero,,,,000
+,,,,,enero,,,,000
+,,,,,enero,,,,
+100,Saenz Srl,paga,1391,01/02/2023,Febrero,90400,406405899bac,7CM,90.40000
+430,Calimardo De Puntarenas,paga,1392,01/02/2023,Febrero,90400,406405511bac,8cm,388.72000
+300,Maraki Family Itda,paga,1393,02/02/2023,febrero,90400,167212336bac,7cm,271.20000
+200,Hacienda Alta Gracia,paga,1394,02/02/2023,febrero,90400,666404176BAC,7CM,180.80000
+100,Sendero Restaurnt Limitada,paga,1395,02/02/2023,febrero,90400,406404224bac,7cm,90.40000
+30,Le Bistrot Paris,paga,1396,02/02/2023,febrero,67800,406408837bac,6.5cm,20.34000
+30,Le Bistrot Paris,paga,1396,02/02/2023,febrero,90400,406408837bac,7cm,27.12000
+44,Le Bistrot Paris,paga,1396,02/02/2023,febrero,1.01700,406408837bac,8cm,44.74800
+50,Jardines,paga,1397,03/02/2023,febrero,1.01700,666405717bac,8cm,50.85000
+36,La Cascada De Escazu,paga,1398,03/02/2023,febrero,1.01700,666404244ban,8cm,36.61200
+60,Saenz Srl,paga,1399,03/02/2023,febrero,90400,406405899bac,7cm,54.24000
+100,3-10-73,paga,1400,04/02/2023,febrero,1.13000,7667487bac,10cm,113.00000
+153,Coco Beer,paga,1401,06/02/2023,febrero,75000,19371210bn,,114.75000
+3,Coco Beer,paga,1401,06/02/2023,febrero,75000,19371210bn,,2.25000
+,Anulada,,1402,,febrero,,,,000
+300,La Marque Pirate Limitado,paga,1403,06/02/2003,febrero,1.07300,,8cm,321.90000
+48,The Tree House Srlda,paga,1404,06/02/2023,febrero,1.01700,406402962BAC,8cm,48.81600
+68,Jardines,paga,1405,08/02/2023,febrero,90400,,7cm,61.47200
+98,Hjk Gourmet Sa,paga,1406,08/02/2023,febrero,67800,406409820bac,6.5cm,66.44400
+24,La Cascada De Escazu,paga,1407,08/02/2023,febrero,1.01700,666406913bac,8cm,24.40800
+20,Esquina Inka,paga,1408,08/02/2023,febrero,1.01700,406406056bac,8cm,20.34000
+100,Saenz Srl,paga,1409,08/02/2023,febrero,90400,406408701bac,7cm,90.40000
+320,Calimardo,paga,1410,09/02/2023,febrero,90400,406402915bn,8cm,289.28000
+166,Coco Beer,paga,1411,09/02/2023,febrero,75000,12144752bn,6.5cm,124.50000
+300,Maraki Family Itda,paga,1412,09/02/2023,febrero,90400,3570477bac,7cm,271.20000
+100,Sendeero Restaurant Limitada,paga,1413,09/02/2023,febrero,90400,406404224bac,7cm,90.40000
+60,Erizos Y Algas,paga,1414,09/02/2023,febrero,96000,406407072bac,7cm,57.60000
+,Anulado,,1415,09/02/2023,febrero,,,,000
+,Anulado,,1416,,febrero,,,,000
+,Karazy Kinkajoy,paga,1417,11/02/2023,febrero,14.50000,46739704 bac,1KG,16.38500
+72,Karazy Kinkajoy,paga,1417,11/02/2023,febrero,90400,46739704 bac,7CM,65.08800
+,Anulada,,1418,13/02/2023,febrero,,,,000
+106,Saenz Srl,paga,1419,15/02/2023,febrero,90400,406401004bac,7cm,95.82400
+200,Operation Mangement Of Tierra,paga,1420,15/02/2023,febrero,1.07300,65880245bac,,214.60000
+60,Vista Mar Del Sol Sa,paga,1421,15/02/2023,febrero,1.75100,406400201 bac,11cm,105.06000
+203,Coco Beer,paga,1422,15/02/2023,febrero,75000,19943978bn,,152.25000
+12,Coco Beer,paga,1422,15/02/2023,febrero,83300,19943978bn,,9.99600
+160,Calimardo,paga,1423,15/02/2023,febrero,90400,406402915bn,7cm,144.64000
+200,Hacienda Alta Gracia,paga,1424,15/02/2023,febrero,90400,408969BAC,7cm,180.80000
+400,Maraki Family Itda,paga,1425,15/02/2023,febrero,90400,377693 bac,7cm,361.60000
+100,Jardines,paga,1426,17/02/2023,febrero,1.01700,666400088bac,8cm,101.70000
+30,La Cascada De Escazu,paga,1427,17/02/2023,febrero,1.01700,bac,8cm,30.51000
+60,Iguana Hotel Holding Corporation,paga,1428,17/02/2023,febrero,96000,666400864bac,8CM,57.60000
+67,Conserva Sa,paga,1429,17/02/2023,febrero,90400,406402426bac,7cm,60.56800
+100,Calimardo,paga,1430,17/02/2023,febrero,90400,406402915bn,8CM,90.40000
+1209,Calimardo,paga,1431,17/02/2023,febrero,90400,406402320bac,8CM,
+,Anulada,,1432,17/02/2023,febrero,,,,000
+56,Saenz Srl,paga,1433,22/02/2023,febrero,90400,406402236bn,7cm,50.62400
+27,3-101-730,paga,1434,22/02/2023,febrero,1.13000,7718034bac,9cm,30.51000
+24,La Cascada De Escazu,paga,1435,22/02/2023,febrero,1.01700,171698bac,8cm,24.40800
+101,Hjk Gourmet Sa,paga,1436,22/02/2023,febrero,67800,406404158bac,6.5cm,68.47800
+40,Ready Pizza Rp,paga,1437,22/02/2023,febrero,1.56700,406408270bac,,62.68000
+360,Calimardo,paga,1438,23/02/2023,febrero,90400,406400827bac,7cm,325.44000
+400,Maraki Family Itda,paga,1439,23/02/2023,febrero,90400,14-4-23 fecha pago,7cm,361.60000
+30,Le Bistrot De Pars,paga,1440,23/02/2023,febrero,67800,406408951 bac,65cm,20.34000
+30,Le Bistrot De Pars,paga,1440,23/02/2023,febrero,1.01700,406408951 bac,8cm,30.51000
+80,Sendeero Restaurant Limitada,paga,1441,23/02/2023,febrero,90400,406404224bac,7cm,72.32000
+85,Saenz Srl,paga,1442,24/02/2023,febrero,90400,406402236bn,7cm,76.84000
+152,Coco Beer,paga,1443,25/02/2023,febrero,74900,16225298bn,,113.84800
+17,Coco Beer,paga,1443,25/02/2023,febrero,75100,16225298bn,,12.76700
+60,Iguana Hotel Holding Corporation,paga,1444,25/02/2023,febrero,96000,666400864bac,,57.60000
+100,Hacienda Alta Gracia,paga,1445,27/02/2023,febrero,90400,408969BAC,7cm,90.40000
+,,,,,febrero,,,,000
+,,,,,febrero,,,,000
+,,,,,febrero,,,,000
+,,,,,febrero,,,,000
+,,,,,febrero,,,,000
+,,,,,febrero,,,,000
+,,,,,febrero,,,,000
+,,,,,febrero,,,,000
+,,,,,febrero,,,,000
+,,,,,febrero,,,,000
+78,Hjk Gourmet Sa,paga,1446,01/03/2023,Marzo,67800,406405735bac,6.5cm,52.88400
+117,Jardines,paga,1447,01/03/2023,Marzo,1.01700,960446850bac,8cm,118.98900
+,Jardines,paga,1447,01/03/2023,marzo,22.60000,960446850bac,10 CAMARONES,226.00000
+40,Eatgastrogroup,paga,1448,01/03/2023,marzo,1.35600,46739704 bac,10cm,54.24000
+103,3-101-175,paga,1449,01/03/2023,marzo,1.13000,7738142bac,9cm,116.39000
+100,Saenz,paga,1450,01/03/2023,marzo,90400,406406127bac,7cm,90.40000
+456,Cantina La Bonita,paga,1451,02/03/2023,marzo,96000,406408173 bac,7cm,437.76000
+85,Jardines,paga,1452,03/03/2023,marzo,1.01700,960446850bac,8cm,86.44500
+400,Maraki Family,paga,1453,04/03/2023,marzo,90400,10022756bac,7cm,361.60000
+280,Calimardo,paga,1454,04/03/2023,marzo,90400,406400827bac,8cm,253.12000
+,Anulada,,1455,04/03/2023,marzo,,,,000
+219,Coco Beer,paga,1456,04/03/2003,marzo,75000,15241774bn,6.5cm,164.25000
+,Anulada,,1457,04/03/2023,marzo,,,,000
+70,Calimardo,paga,1458,06/03/2023,marzo,90400,406400827bac,8cm,63.28000
+150,Calimardo,paga,1459,06/03/2023,marzo,79100,406402311bac,7cm,118.65000
+40,Ready Pizza,paga,1460,06/03/2023,marzo,1.56500,406.405.74800,,62.60000
+,Anulada,,1461,,marzo,,,,000
+,Anulada,,1462,,marzo,,,,000
+100,3-101 730175 Silvestre,paga,1463,08/03/2023,marzo,1.13000,7756180bac,9cm,113.00000
+103,Hjk Gourmet Sa,paga,1464,08/03/2023,marzo,67800,40640937bac,,69.83400
+80,Jardines,paga,1465,08/03/2023,marzo,1.01700,960446850bac,8CM,81.36000
+44,Eatgastrogroup,paga,1466,08/03/2023,marzo,1.35600,,11c m,59.66400
+150,Recife Saen Ureña,paga,1467,08/03/2023,marzo,90400,406409727bac,7cm,135.60000
+24,La Casacada De Escazu,paga,1468,09/03/2023,marzo,1.01700,DEL BN AL BAC,8cm,24.40800
+350,Calimardo,paga,1469,09/03/2023,marzo,90400,406403067bac,8cm,316.40000
+475,Calimardo,paga,1470,09/03/2023,marzo,71100,406408629bac,7cm,337.72500
+400,Maraki Family,paga,1471,09/03/2023,marzo,90400,9871988bac,7CM,361.60000
+216,Coco Beer,paga,1472,09/03/2023,marzo,75000,19521168bn,7CM,162.00000
+60,Iguana Hotel Holding,paga,1473,09/03/2023,marzo,96000,666408696bac,7cm,57.60000
+80,Jardines,paga,1474,09/03/2023,marzo,1.01700,427392115 bac . pro,8cm,81.36000
+40,Esquina Inka Sa,paga,1475,09/03/2023,marzo,1.01700,,8cm,40.68000
+70,Hjk Gourmet Sa,paga,1476,15/03/2023,marzo,67800,406400838 bac,6cm,47.46000
+212,Jardines,paga,1477,15/03/2023,marzo,1.01700,,8cm,215.60400
+113,Saenz,paga,1478,15/03/2023,marzo,90400,406401287bac,7cm,102.15200
+105,3-101-730,paga,1479,15/03/2023,marzo,1.13000,7776911bac,9CM,118.65000
+300,Calimardo,paga,1480,15/03/2023,marzo,90400,406403067bac,8cm,271.20000
+250,Calimardo,paga,1480,15/03/2023,marzo,71100,406403067bac,7cm,177.75000
+160,Calimardo,paga,1480,15/03/2023,marzo,90400,406403067bac,8cm,144.64000
+217,Coco Beer,paga,1481,15/03/2023,marzo,75000,16874299bac,7cm,162.75000
+40,Sendero Restaurant Limitada,paga,1482,15/03/2023,marzo,90400,,7cm,36.16000
+400,Maraki Family,paga,1483,15/03/2023,marzo,90400,4755453bac,7cm,361.60000
+35,Esquina Inka Sa,paga,1484,18/03/2023,marzo,1.01700,,8cm,35.59500
+100,Calimardo,PAGA,1485,20/03/2023,marzo,90400,406402501BAc,8cm,90.40000
+60,Ready Pizza,PAGA,1486,20/03/2023,marzo,1.55300,,,93.18000
+50,Vista Mar Del Sol Sa,PAGA,1487,20/03/2023,marzo,1.46900,406408936bac,,73.45000
+105,3-101-,paga,1488,22/03/2023,marzo,1.13000,7791078bac,,118.65000
+43,La Cascada De Escazu Sa,paga,1489,22/03/2023,marzo,1.01700,666402530bac,8cm,43.73100
+69,Hjk Gourmet Sa,paga,1490,22/03/2023,marzo,67800,406400838 bac,650,46.78200
+150,Jardines,paga,1491,22/03/2023,marzo,1.01700,960469303 bac,8CM,152.55000
+,Jardines,paga,1491,22/03/2023,marzo,,960469303 bac,16kg cama,393.60000
+250,Calimardo,PAGA,1492,23/03/2023,marzo,90400,406402501BAc,8CM,226.00000
+299,Calimardo,PAGA,1493,23/03/2023,marzo,71100,406401002bac,7cm,212.58900
+500,Maraki Family,paga,1494,23/03/2023,marzo,90400,8764593bac,7CM,452.00000
+168,Coco Beer,paga,1495,23/03/2023,marzo,75000,13435621 bac,6.5CM,126.00000
+40,Eatgastrogroup,paga,1496,24/03/2023,marzo,1.35600,,10cm,54.24000
+,Jardines,paga,1497,24/03/2023,marzo,,960469303 bac,12 KG Camarones,271.20000
+115,Saenz,paga,1498,24/03/2023,marzo,90400,406408653bac,7cm,103.96000
+100,Calimardo De Puntarenas,PAGA,1499,25/03/2023,marzo,90400,406402501BAc,8cm,90.40000
+90,Iguana Hotel Holding,paga,1500,25/03/2023,marzo,90400,666408696bac,7cm,81.36000
+,Anulada,,1501,25/03/2023,marzo,,,,000
+138,Jardines,paga,1502,25/03/2023,marzo,1.01700,960469303 bac,9cm,140.34600
+108,3-101-73,paga,1503,25/03/2023,marzo,1.13000,7808150bac,9cm,122.04000
+370,Calimardo De Puntarenas,PAGA,1504,25/03/2023,marzo,90400,406402501BAc,8cm,334.48000
+300,Calimardo De Puntarenas,paga,1505,29/03/2023,marzo,71100,406403067bac,7cm,213.30000
+167,Coco Beer,paga,1506,29/03/2023,marzo,75000,11077012 bac,6.5cm,125.25000
+400,Maraki Family,paga,1507,29/03/2023,marzo,90400,14-4-23 fecha pago,7cm,361.60000
+,Anulada,,1508,29/03/2023,marzo,,,,000
+100,Jardines,PAGA,1509,31/03/2023,marzo,1.01700,666400681bac,8cm,101.70000
+100,Saenz,paga,1510,31/03/2023,marzo,90400,406403398bac,7cm,90.40000
+500,Adomicilio,paga,SIN REFENC,,marzo,78900,,65,394.50000
+36,Adomicilio,paga,SIN REFENC,,marzo,50000,,65,18.00000
+552,Adomicilio,paga,SIN REFENC,,marzo,80000,,7CM,441.60000
+400,Adomicilio,paga,SIN REFENC,,marzo,90000,,8CM,360.00000
+940,Adomicilio,paga,SIN REFENC,,marzo,1.09000,,9CM,
+930,Adomicilio,paga,SIN REFENC,,marzo,1.35000,,10CM,
+264,Adomicilio,paga,SIN REFENC,,marzo,1.50000,,11cm,396.00000
+,,,,,marzo,,,,000
+,,,,,marzo,,,,000
+,,,,,marzo,,,,000
+,,,,,marzo,,,,000
+,,,,,marzo,,,,000
+,,,,,marzo,,,,000
+,,,,,marzo,,,,000
+,,,,,marzo,,,,000
+,,,,,marzo,,,,000
+,,,,,marzo,,,,000
+,,,,,marzo,,,,000
+,,,,,marzo,,,,000
+,,,,,marzo,,,,000
+,,,,,marzo,,,,000
+,,,,,marzo,,,,000
+,,,,,marzo,,,,000
+,,,,,marzo,,,,000
+,,,,,marzo,,,,000
+,,,,,marzo,,,,000
+,,,,,marzo,,,,000
+,,,,,marzo,,,,000
+105,Hjk Gourmet Sa,paga,1511,01/04/2023,Abril,67800,406407966bac,6.5cm,71.19000
+66,Hjk Gourmet Sa,paga,1512,05/04/2023,Abril,67800,406407966bac,65,44.74800
+60,Jardin De Los Alivos,PAGA,1513,05/04/2023,abril,1.01700,666400681bac,8cm,61.02000
+24,La Cascada De Escazu Sa,PAGA,1514,05/04/2023,abril,1.01700,3900312bac,8cmj,24.40800
+142,Saenz,paga,1515,05/04/2023,abril,90400,4064594BAC,7cm,128.36800
+150,Coco Beer,Paga,1516,10/04/2023,abril,75000,16899695bn,65,112.50000
+64,Iguana Hotel Holding,Paga,1517,11/04/2023,abril,96050,66640038bac,7cm,61.47200
+400,Maraki Family,Paga,1518,11/04/2023,abril,90400,960459549bac,7cm,361.60000
+60,Vista Mar Del Sol Sa,paga,1519,11/04/2023,abril,1.38199,,9cm,82.91940
+510,Calimardo De Puntarenas,Paga,1520,11/04/2023,abril,90400,40640497993BAC,8cm,461.04000
+200,Calimardo De Puntarenas,Paga,1521,11/04/2023,abril,71190,406401742BAC,7cm,142.38000
+105,3-101-73,Paga,1522,12/04/2023,abril,1.13000,7851981 bacc,9cm,
+410,Calimardo De Puntarenas,Paga,1523,12/04/2023,abril,90400,40640497993BAC,8cm,370.64000
+100,Calimardo De Puntarenas,PAGA,1524,12/04/2023,abril,71190,406402501BAc,7cm,71.19000
+60,Senderos Limitados,paga,1525,13/04/2023,abril,90400,,7cm,54.24000
+300,Maraki Family,Paga,1526,13/04/2023,abril,90400,960459549bac,7cm,271.20000
+80,Jardin De Los Alivos,PAGA,1527,14/04/2023,abril,1.01700,666400681bac,8cm,81.36000
+46,Eatgastrogroup,PAGA,1528,14/04/2023,abril,1.35600,,10cm,62.37600
+30,La Cascada De Escazu Sa,PAGA,1529,14/04/2023,abril,1.01700,,8cm,30.51000
+,Anulado,,1530,14/04/2023,abril,,,,000
+454,Calimardo De Puntarenas,PAGA,1531,14/04/2023,abril,90400,406406981bac,8CM,410.41600
+83,Hjk Gourmet Sa,paga,1532,19/04/2023,abril,67800,406407966bac,6.5CM,56.27400
+25,La Cascada De Escazu Sa,PAGA,1533,19/04/2023,abril,1.01700,36974BAc,8CM,25.42500
+105,3-101-73,PAGA,1534,19/04/2023,abril,1.13000,7862232bac,9CM,
+112,Saenz,PAGA,1535,19/04/2023,abril,90400,,7CM,101.24800
+221,Calimardo De Puntarenas,PAGA,1536,19/04/2023,abril,90400,406406981ban,8cm,199.78400
+350,Calimardo De Puntarenas,PAGA,1537,19/04/2023,abril,71100,406402287BAC,7cm,248.85000
+82,Coco Beer,PAGA,1538,19/04/2023,abril,75000,19969160bn,6.5cm,61.50000
+80,Jardin De Los Alivos,PAGA,1539,21/04/2023,abril,1.01700,666407133bac,8cm,81.36000
+,Jardin De Los Alivos,PAGA,1539,21/04/2023,abril,1000,666407133bac,CAMARONES,226.00000
+25,Esquina Inka,PENDIENTE,1540,21/04/2023,abril,1.01700,,8cm,25.42500
+80,Calimardo De Puntarenas,PAGA,1541,21/04/2023,abril,90400,406406981ban,8cm,72.32000
+300,Maraki Family,PENDIENTE,1542,21/04/2023,abril,90400,,7cm,271.20000
+207,Jardin De Los Alivos,PAGA,1543,26/04/2023,abril,1.01700,66640970 bac,8cm,210.51900
+130,Saenz,PAGA,1544,26/04/2023,abril,90400,406401363BAC,7cm,117.52000
+105,3-101-73,PAGA,1545,26/04/2023,abril,1.13000,7887386BAc,9cm,118.65000
+30,Eatgastrogroup,PAGA,1546,26/04/2023,abril,1.35600,406403285BAC,10cm,40.68000
+82,Coco Beer,PAGA,1547,28/04/2023,abril,75000,se borro del chad,6.4cm,61.50000
+80,Calimardo De Puntarenas,PAGA,1548,28/04/2023,abril,90400,406406981ban,8cm,72.32000
+378,Calimardo De Puntarenas,PAGA,1549,28/04/2023,abril,71190,406401213BAC,7cm,269.09820
+83,Hjk Gourmet Sa,paga,1550,28/04/2023,abril,67800,406407966bac,6.5cm,56.27400
+24,La Cascada De Escazu Sa,PAGA,1551,28/04/2023,abril,1.01700,1079 bac,8CM,24.40800
+300,Adomicilio,paga,sin referenc,,abril,78000,,65,234.00000
+144,Adomicilio,paga,sin referenc,,abril,80000,,7cm,115.20000
+135,Adomicilio,,sin referenc,,abril,90000,,8cm,121.50000
+700,Adomicilio,,sin referenc,,abril,1.09000,,9cm,763.00000
+696,Adomicilio,,sin referenc,,abril,1.35000,,10cm,939.60000
+100,Adomicilio,,sin referenc,,abril,1.50000,,11cm,150.00000
+,,,,,abril,,,,000
+,,,,,abril,,,,000
+,,,,,abril,,,,000
+,,,,,abril,,,,000
+,,,,,abril,,,,000
+,,,,,abril,,,,000
+,,,,,abril,,,,000
+,,,,,abril,,,,000
+200,Maraki Family Itda,PAGA,1552,03/05/2023,Mayo,90400,666408414bac,7cm,180.80000
+100,Restaurant Stelle,PAGA,1553,03/05/2023,Mayo,96000,406404042bac,7cm,96.00000
+,Nula,,1554,03/05/2023,Mayo,,,,000
+182,Jardines Sa,PAGA,1555,03/05/2023,Mayo,1.01700,666400713bac,8cm,185.09400
+112,3-101-73,paga,1556,03/05/2023,Mayo,1.13000,7900387bac,9CM,126.56000
+225,Maraki Family Itda,PAGA,1557,05/05/2023,Mayo,90400,666408414bac,7cm,203.40000
+150,Calimardo De Puntarenas Sa,PAGA,1558,05/05/2023,Mayo,71100,40644841baC,7cm,106.65000
+26,Eatgastrogroup,paga,1559,05/05/2023,Mayo,1.35600,406402848bac,10cm,35.25600
+110,Saenz Srl,PAGA,1560,05/05/2023,Mayo,90400,406406317BAC,7cm,99.44000
+,Jardines Sa,PAGA,1561,06/05/2023,Mayo,,666400713bac,CAMARONES,226.00000
+60,Iguana Hotel Holding Corporation,Paga,1562,08/05/2023,Mayo,96000,666400333bac,7cm,57.60000
+85,Coco Beer,PAGA,1563,08/05/2023,Mayo,75000,16776758bac,7cm,63.75000
+50,Calimardo De Puntarenas Sa,PAGA,1564,08/05/2023,Mayo,90400,406402949bac,8cm,45.20000
+150,Jardines Sa,PAGA,1565,08/05/2023,Mayo,1.01700,66640970 bac,8cm,152.55000
+105,Hjk,paga,1566,10/05/2023,Mayo,67800,406407966bac,6.5cm,71.19000
+106,3-101-73,PAGA,1567,10/05/2023,Mayo,1.13000,7926754bac,,119.78000
+20,Esquina Inka,PAGA,1568,10/05/2023,Mayo,1.01700,40640731bac,8cm,20.34000
+20,Jose Luis Guillen Borranse,PENDIENTE,1569,10/05/2023,Mayo,1.01700,,8cm,20.34000
+159,Jardines Sa,PAGA,1570,10/05/2023,Mayo,1.01700,960464980bac,8cm,161.70300
+130,Saenz Srl,PAGA,1571,12/05/2023,Mayo,90400,406402324bac,7cm,117.52000
+26,Eatgastrogroup,paga,1572,13/05/2023,Mayo,1.35600,406402848bac,11cm,35.25600
+,Jardines Sa,PAGA,1573,13/05/2023,Mayo,,960464980bac,CAMARONES,113.00000
+185,Calimardo De Puntarenas Sa,PAGA,1574,15/05/2023,Mayo,90400,406402949bac,8CM,167.24000
+215,Calimardo De Puntarenas Sa,PAGA,1575,15/05/2023,Mayo,71200,406400710bac,7CM,153.08000
+200,Maraki Family Itda,paga,1576,15/05/2023,Mayo,90400,10666636bac,7cm,180.80000
+83,Coco Beer,PAGA,1577,15/05/2023,Mayo,75000,1821132bac,6.5cm,62.25000
+60,Caracol Del Catbe Sa,PAGA,1578,15/05/2023,Mayo,96000,,7cm,57.60000
+100,Jardines Sa,PAGA,1579,17/05/2023,Mayo,1.01700,,8cm,101.70000
+,Anulado,,1580,17/05/2023,Mayo,,,,000
+171,Calimardo De Puntarenas Sa,PAGA,1581,18/05/2023,Mayo,71200,406407880bac,7cm,121.75200
+60,Iguana Hotel Holding Corporation,,1582,18/05/2023,Mayo,96000,6664077 55bac,7cm,57.60000
+200,Maraki Family Itda,paga,1583,18/05/2023,Mayo,90400,14969753 bac,7cm,180.80000
+,Jardines Sa,PAGA,1584,19/05/2023,Mayo,,,camarones,203.40000
+122,Saenz Srl,PAGA,1585,19/05/2023,Mayo,90400,406404586bac,7cm,110.28800
+92,Coco Beer,PAGA,1586,21/05/2023,Mayo,75000,10133873BAC,7cm,69.00000
+46,Ready Pizza Rp,PAGA,1587,22/05/2023,Mayo,1.01700,,8cm,46.78200
+256,Calimardo De Puntarenas Sa,PAGA,1588,22/05/2023,Mayo,90400,406408735bac,8cm,231.42400
+,Nula,,1589,24/05/2023,Mayo,,,,000
+26,Eatgastrogroup,paga,1590,24/05/2023,Mayo,1.35600,406402848bac,10cm,35.25600
+93,Hjk,paga,1591,24/05/2023,Mayo,67800,406400434bac,6.5cm,63.05400
+24,La Cascada De Escazu,PAGA,1592,24/05/2023,Mayo,1.01700,666407204bac,8cm,24.40800
+130,Calimardo De Puntarenas Sa,PAGA,1593,24/05/2023,Mayo,90400,406408735bac,8cm,117.52000
+150,Calimardo De Puntarenas Sa,PAGA,1594,24/05/2023,Mayo,71190,406401214bac,7cm,106.78500
+200,Maraki Family Itda,PAGA,1595,24/05/2023,Mayo,96050,960493201bac,7cm,192.10000
+210,Saenz Srl,paga,1596,26/05/2023,Mayo,90400,406408573bac,,189.84000
+150,Jardines Sa,PAGA,1597,27/05/2023,Mayo,1.01700,960481148bac,8cm,152.55000
+,Jardines Sa,PAGA,1597,27/05/2023,Mayo,33.90000,960481148bac,LANGOSTA,237.30000
+,Jardines Sa,PAGA,1597,27/05/2023,Mayo,22.60000,960481148bac,CAMARONES,226.00000
+13,Esquina Inka,PAGA,1598,27/05/2023,Mayo,1.01700,406404035bac,8cm,13.22100
+12,Jose Luis Guillen Borranse,PENDIENTE,1599,27/05/2023,Mayo,1.01700,,8cm,12.20400
+82,Coco Beer,PAGA,1600,29/05/2023,Mayo,75000,1706004bn,6.5cm,61.50000
+50,Calimardo De Puntarenas Sa,PAGA,1601,29/05/2023,Mayo,90400,406408735bac,8cm,45.20000
+84,3-101-730175,PENDIENTE,1602,31/05/2023,Mayo,1.13000,,7cm,94.92000
+41,Hjk,paga,1603,31/05/2023,Mayo,67800,406403646bac,6cm,27.79800
+1992,Industrias Martec Sa,paga,1604,31/05/2023,Mayo,90000,,8cm,
+200,Maraki Family Itda,PAGA,1605,31/05/2023,Mayo,96000,960493201bac,7cm,192.00000
+170,Calimardo De Puntarenas Sa,PAGA,1606,31/05/2023,Mayo,90400,406408735bac,8cm,153.68000
+160,Calimardo De Puntarenas Sa,PAGA,1607,31/05/2023,Mayo,71100,406407589bac,6cm,113.76000
+100,Restaurant Stelle,paga,1608,31/05/2023,Mayo,96050,63027709bac,7cm,96.05000
+199,Jardines Sa,PAGA,1609,31/05/2023,Mayo,1.01700,666403172bn,,202.38300
+,Jardines Sa,PAGA,1609,31/05/2023,Mayo,,666403172bn,LANGOSTA,169.50000
+300,Adomicilio,paga,sin referc,,Mayo,78000,,65,234.00000
+537,Adomicilio,paga,sin referc,,Mayo,80000,,7cm,429.60000
+788,Adomicilio,paga,sin referc,,Mayo,90000,,8cm,709.20000
+119,Adomicilio,paga,sin referc,,Mayo,1.09000,,9cm,129.71000
+312,Adomicilio,,sin referc,,Mayo,1.35000,,10cm,421.20000
+35,Adomicilio,,sin referc,,Mayo,1.50000,,11cm,52.50000
+99,Adomicilio,,sin referc,,Mayo,2.00000,,12cm,198.00000
+24,La Cascada De Escazu,PAGA,1610,02/06/2023,Junio,1.01700,666408271bac,8cm,24.40800
+119,Saenz Srl,PAGA,1611,02/06/2023,Junio,90400,406402044bac,7cm,107.57600
+82,Coco Beer,PAGA,1612,02/06/2023,junio,75000,15044903bn,6.5cm,61.50000
+234,Jardines Sociedad Anonima,PAGA,1613,02/06/2023,junio,1.01700,666403172bn,8cm,237.97800
+80,Hlk Sa,PAGA,1614,07/06/2023,junio,67800,406402569bac,6CM,54.24000
+108,3-101-73175,PAGA,1615,07/06/2023,junio,1.13000,7997599bac,10CM,122.04000
+210,Calimardo,PAGA,1616,09/06/2023,junio,90400,406401692bac,8cm,189.84000
+350,Calimardo,PAGA,1617,09/06/2023,junio,71190,406401072bac,7cm,249.16500
+77,Coco Beer,PAGA,1618,09/06/2023,junio,75000,11038234bn,6.5cm,57.75000
+60,Iguana Hotel Holding,PAGA,1619,09/06/2023,junio,96050,666407755bac,,57.63000
+222,Maraki Family Itda,PAGA,1620,09/06/2023,junio,96050,666408414bac,7cm,213.23100
+110,Calimardo,PAGA,1621,09/06/2023,junio,90400,406401692bac,,99.44000
+100,Hlk Sa,PAGA,1622,09/06/2023,junio,67800,406405607bac,,67.80000
+10,Jardines Sociedad Anonima,PAGA,1623,09/06/2023,junio,,666403172bn,CAMARONES,226.00000
+110,Saenz Srl,PAGA,1624,09/06/2023,junio,90400,406409351bac,7CM,99.44000
+,Jardines Sociedad Anonima,PAGA,1625,14/06/2023,junio,,666403172bn,COLA LANGOS,318.66000
+40,La Cascada De Escazu,PAGA,1626,14/06/2023,junio,1.01700,666401470bac,9cm,40.68000
+116,3-101-73175,PAGA,1627,15/06/2023,junio,1.13000,8018778bac,10CM,131.08000
+170,Calimardo,PAGA,1628,15/06/2023,junio,90400,406401692bac,8cm,153.68000
+60,Iguana Hotel Holding,PAGA,1629,15/06/2023,junio,96050,666408052bac,7cm,57.63000
+220,Maraki Family Itda,PAGA,1630,15/06/2023,junio,96050,960463515bac,7cm,211.31000
+100,Jardines Sociedad Anonima,PAGA,1631,16/06/2023,junio,1.01700,,8cm,101.70000
+175,Saenz Srl,PAGA,1632,16/06/2023,junio,90400,406404894bac,7cm,158.20000
+80,Calimardo,PAGA,1633,17/06/2023,junio,90400,406401692bac,8cm,72.32000
+71,Coco Beer,PAGA,1634,19/06/2023,junio,75000,11176468bn,6.5cm,53.25000
+,Anulada,,1635,21/06/2023,junio,,,,000
+48,Hlk Sa,PAGA,1636,21/06/2023,junio,67800,406402013BAC,6cm,32.54400
+101,3-101-73175,PAGA,1637,21/06/2023,junio,1.13000,8937865bac,9CM,114.13000
+270,Calimardo,PAGA,1638,22/06/2023,junio,90400,406401692bac,8cm,244.08000
+60,Iguana Hotel Holding,PAGA,1639,22/06/2023,junio,96050,697885 refer whass,7cm,57.63000
+220,Maraki Family Itda,PAGA,1640,22/06/2023,junio,96050,6664043390bac,7CM,211.31000
+100,Jardines Sociedad Anonima,paga,1641,23/06/2023,junio,1.01700,666404799bac,8CM,101.70000
+CAMARONES,Jardines Sociedad Anonima,paga,1641,23/06/2023,junio,,666404799bac,,135.60000
+140,Saenz Srl,PAGA,1642,23/06/2023,junio,90400,406407857bac,7CM,126.56000
+53,Calimardo,PAGA,1643,24/06/2023,junio,90400,406401692bac,8cm,47.91200
+70,Coco Beer,PAGA,1644,24/06/2023,junio,75000,1696035bn,6.5cm,52.50000
+4,Jardines Sociedad Anonima,paga,1645,24/06/2023,junio,,666404799bac,CAMARONES,90.40000
+104,3-101-73,,1646,,junio,1.13000,,9cm,117.52000
+70,Hlk Sa,PAGA,1647,,junio,67800,406409690bac,,47.46000
+,,,,,junio,,,,000
+,,,,,junio,,,,000
+200,Adomicilio,PAGA,sin referc,,junio,78000,,65,156.00000
+1947,Adomicilio,PAGA,sin referc,,junio,80000,,7cm,
+66,Adomicilio,PAGA,sin referc,,junio,90000,,8cm,59.40000
+163,Adomicilio,paga,sin referc,,junio,1.00000,,9cm,163.00000
+31,Adomicilio,,sin referc,,junio,1.35000,,1000,41.85000
+,,,,,junio,,,,000
+200,Jardines,paga,1648,30/06/2023,junio,90400,666401699bac,7cm,180.80000
+camarones,Jardines,paga,1648,30/06/2023,junio,,666401699bac,,226.00000
+139,Recife Saenz,paga,1649,30/06/2023,junio,90400,406401476bac,7CM,125.65600
+,,,,,junio,,,,
+60,Hlk Sa,PAGA,1650,05/07/2023,Julio,67800,406409690bac,6.5cm,40.68000
+30,La Cascada De Escazu,paga,1651,05/07/2023,Julio,1.01700,3450755bac,,30.51000
+15,Esquina Inka Sa,paga,1652,05/07/2023,julio,1.01700,406408466bac,,15.25500
+15,Jose Luisguillen Borrance,paga,1653,05/07/2023,julio,1.01700,406400863bac,,15.25500
+74,3-10173,PAGA,1654,05/07/2023,julio,1.13000,8.079.19800,,83.62000
+464,Calimardo De Puntarenas Sa,PAGA,1655,05/07/2023,julio,71200,406409872bac,7cm,330.36800
+204,Calimardo De Puntarenas Sa,paga,1656,05/07/2023,julio,90400,406401036bac,8cm,184.41600
+110,Calimardo De Puntarenas Sa,paga,1656,05/07/2023,julio,90400,406401036bac,8cm,99.44000
+200,Mariki Family Itda,paga,1657,05/07/2023,julio,96000,960493201bac,7cm,192.00000
+100,Hlk Sa,PAGA,1658,05/07/2023,julio,67800,406409690bac,6.5cm,67.80000
+100,Jardines Sociedad Anonima,PAGA,1659,07/07/2023,julio,1.01700,666407133bac,,101.70000
+,Jardines Sociedad Anonima,PAGA,1659,07/07/2023,julio,,666407133bac,CAMARONES,226.00000
+,Jardines Sociedad Anonima,PAGA,1659,07/07/2023,julio,,666407133bac,LANGOSTA,389.85000
+100,Saenz Srl,paga,1660,07/07/2023,julio,1.01700,406406530bac,,101.70000
+110,Calimardo De Puntarenas Sa,PAGA,1661,07/07/2023,julio,90400,406405572bac,8cm,99.44000
+190,Calimardo De Puntarenas Sa,PAGA,1661,07/07/2023,julio,71100,406405572bac,7cm,135.09000
+50,Calimardo De Puntarenas Sa,PAGA,1662,07/07/2023,julio,71100,406401692bac,7CM,35.55000
+70,Cococ+ Draft Beer,PAGA,1663,07/07/2023,julio,75000,10887159bn,6.5cn,52.50000
+24,La Cascada De Escazu,paga,1664,12/07/2023,julio,1.01700,4041292bac,8cm,24.40800
+99,3-10173,PAGA,1665,12/07/2023,julio,1.13000,8100604bac,,111.87000
+,Anulado,,1666,12/07/2023,julio,,,,000
+341,Calimardo De Puntarenas Sa,PAGA,1667,12/07/2023,julio,71100,406401692bac,7cm,242.45100
+200,Mariki Family Itda,PAGA,1668,12/07/2023,julio,96000,96471991bac,7CM,192.00000
+52,Appunto Inversiones,PAGA,1669,12/07/2023,julio,90400,efectivo,,47.00800
+95,Jardines Sociedad Anonima,PAGA,1670,12/07/2023,julio,1.01700,666407133bac,,96.61500
+100,Saenz Srl,paga,1671,14/07/2023,julio,90400,406401848bac,7cm,90.40000
+50,Calimardo De Puntarenas Sa,PAGA,1672,18/07/2023,julio,90400,406401692bac,8cm,45.20000
+220,Calimardo De Puntarenas Sa,paga,1673,18/07/2023,julio,90400,406401036bac,8cm,198.88000
+100,3-10173,paga,1674,19/07/2023,julio,1.13000,8120403bac,9cm,113.00000
+50,Hlk Sa,PAGA,1675,19/07/2023,julio,67800,406402013BAC,,33.90000
+,Anulado,,1676,19/07/2023,julio,,,,000
+,Anulado,,1677,19/07/2023,julio,,,,000
+200,Maraki Family Itda,PAGA,1678,19/07/2023,julio,96000,960478034BAc,7cm,192.00000
+130,Calimardo De Puntarenas Sa,PAGA,1679,21/07/2023,julio,90400,406408798BAC,8cm,117.52000
+50,Hlk Sa,PAGA,1680,21/07/2023,julio,67800,406402013BAC,6.5cm,33.90000
+,Anulado,,1681,21/07/2023,julio,,,,000
+159,Jardines Sociedad Anonima,PAGA,1682,21/07/2023,julio,1.01700,666406498 bac,8cm,161.70300
+,Jardines Sociedad Anonima,PAGA,1682,21/07/2023,julio,,666406498 bac,ATUN,114.00500
+,Jardines Sociedad Anonima,PAGA,1682,21/07/2023,julio,,666406498 bac,LANGOSTA,552.57000
+110,Saenz Srl,paga,1683,21/07/2023,julio,90400,406406059bac,,99.44000
+24,Eco Sikwa Sa,PAGA,1684,21/07/2023,julio,90400,406402995bac,7cm,21.69600
+101,3-10173,PAGA,1685,26/07/2023,julio,1.13000,8134008bac,9cm,114.13000
+50,Hlk Sa,PAGA,1686,26/07/2023,julio,67800,406402013BAC,6.5cm,33.90000
+177,Calimardo De Puntarenas Sa,PAGA,1687,,julio,90400,406408798BAC,8cm,160.00800
+250,Calimardo De Puntarenas Sa,PAGA,1688,27/07/2023,julio,71100,406406388bac,7cm,177.75000
+50,Hlk Sa,PAGA,1689,28/07/2023,julio,67800,406402013BAC,,33.90000
+170,Jardines Sociedad Anonima,PAGA,1690,28/07/2023,julio,90400,666406498 bac,7cm,153.68000
+80,Jardines Sociedad Anonima,PAGA,1690,28/07/2023,julio,1.01700,666406498 bac,8cm,81.36000
+,Jardines Sociedad Anonima,PAGA,1690,28/07/2023,julio,,666406498 bac,ATUN,163.00800
+130,Saenz Srl,paga,1691,28/07/2023,julio,90400,406409653bac,7CM,117.52000
+,,,,,julio,,,,000
+,,,,,julio,,,,000
+,,,,,julio,,,,000
+,,,,,julio,,,,000
+,,,,,julio,,,,000
+,,,,,julio,,,,000
+,,,,,julio,,,,000
+,,,,,julio,,,,000
+,,,,,julio,,,,000
+,,,,,julio,,,,000
+,,,,,julio,,,,000
+,,,,,julio,,,,000
+,,,,,julio,,,,000
+,,,,,julio,,,,000
+,,,,,julio,,,,000
+,,,,,julio,,,,000
+,,,,,julio,,,,000
+45,Hlk Sa,PAGA,1692,02/08/2023,agosto,67800,406402013BAC,,30.51000
+70,Calimardo De Puntarenas,PAGA,1693,03/08/2023,agosto,71100,406408798BAC,,49.77000
+200,Calimardo De Puntarenas,paga,1694,03/08/2023,agosto,71100,406409870bac,,142.20000
+200,Maraki Family Itda,paga,1695,03/08/2023,agosto,96050,2161727bac,,192.10000
+55,Hlk Sa,PAGA,1696,04/08/2023,agosto,67800,406402013BAC,6CM,37.29000
+150,Jardines,PAGA,1697,04/08/2023,agosto,1.01700,666402882BAC,8CM,152.55000
+,Jardines,PAGA,1697,04/08/2023,agosto,,666402882BAC,CAMARONES,135.60000
+,Jardines,PAGA,1697,04/08/2023,agosto,,666402882BAC,LANGOST,406.80000
+70,3-101-730,PAGA,1698,04/08/2023,agosto,1.13000,8175472BAC,,79.10000
+130,Saenz,paga,1699,04/08/2023,agosto,90400,406408129bac,,117.52000
+24,La Cascada De Escazu,paga,1700,05/08/2023,agosto,1.01700,531755bac,,24.40800
+104,Hlk Sa,PAGA,1701,11/08/2023,agosto,67800,406402013BAC,,70.51200
+150,Jardines,PAGA,1702,11/08/2023,agosto,1.01700,666804810bac,8CM,152.55000
+,Jardines,PAGA,1702,11/08/2023,agosto,,666804810bac,CAMARONES,226.00000
+,Jardines,PAGA,1702,11/08/2023,agosto,,666804810bac,LANGOST,406.80000
+30,La Cascada De Escazu,paga,1703,11/08/2023,agosto,1.01700,7148621 bac,,30.51000
+40,3-101-730,PAGA,1704,11/08/2023,agosto,90400,8175472bac,,36.16000
+24,Eco Sikwa Sa,PAGA,1705,11/08/2023,agosto,90400,406405842bac,,21.69600
+147,Saenz,paga,1706,11/08/2023,agosto,90400,406406359bac,,132.88800
+147,Saenz,PAGA,1706,11/08/2023,agosto,90400,406406359BAC,7CM,132.88800
+187,Maraki Family Itda,PAGA,1707,11/08/2023,agosto,96050,960478034BAc,,179.61350
+,Anulado,PAGA,1708,,agosto,,,,000
+73,Hlk Sa,PAGA,1709,18/08/2023,agosto,67800,406402013BAC,,49.49400
+144,Jardines,PAGA,1710,18/08/2023,agosto,1.01700,666402882BAC,8CM,146.44800
+,Jardines,PAGA,1710,18/08/2023,agosto,,666402882BAC,CAMARONES,180.80000
+,Jardines,PAGA,1710,18/08/2023,agosto,,666402882BAC,LANGOSTA,432.22500
+30,La Cascada De Escazu,PAGA,1711,18/08/2023,agosto,1.01700,7951211BAC,,30.51000
+120,Saenz,PAGA,1712,18/08/2023,agosto,90400,406403898BAC,,108.48000
+100,Restaurante Stelle,PAGA,1713,21/08/2023,agosto,96050,630205957bac,7cm,96.05000
+200,Maraki Family Itda,PAGA,1714,21/08/2023,agosto,96050,96471991bac,8cm,192.10000
+30,Esquina Inka,PENDIENTE,1715,21/08/2023,agosto,1.01700,,8cm,30.51000
+100,Jardines,PAGA,1716,25/08/2023,agosto,1.01700,666401436bac,,101.70000
+10,Jardines,PAGA,1716,25/08/2023,agosto,8.85000,666401436bac,ATUN,29.00100
+,Jardines,PAGA,1716,25/08/2023,agosto,,666401436bac,LANGOSTA,206.79000
+100,Saenz,PAGA,1717,25/08/2023,agosto,90400,406402572bac,,90.40000
+100,Maraki Family Itda,PAGA,1718,,agosto,96050,96471991bac,,96.05000
+990,Industrias Martec Sa,,1719,28/08/2023,agosto,90400,,,894.96000
+2006,Adomicilio,PAGA,sin refenc,,agosto,80000,,7CM,
+355,Adomicilio,PAGA,sin refenc,,agosto,90000,,8CM,319.50000
+160,Adomicilio,PAGA,sin refenc,,agosto,1.00000,,9CM,160.00000
+100,Adomicilio,,sin refenc,,agosto,,,65CM,000
+,,,,,agosto,,,,000
+,,,,,agosto,,,,000
+,,,,,agosto,,,,000
+,,,,,agosto,,,,000
+,,,,,agosto,,,,000
+50,3-101-730175 Sa,PAGA,1720,01/09/2023,septiembre,90400,8235769BAC,7cm,45.20000
+100,Hjk Gourmet S.A,PAGA,1721,01/09/2023,septiembre,67800,406403407bac,65,67.80000
+212,Jardines,PAGA,1722,01/09/2023,septiembre,1.01700,666804810bac,8CM,215.60400
+10,Jardines  Camarones,PAGA,1722,01/09/2023,septiembre,22.60000,666804810bac,,226.00000
+48,Eco  Sikwa Sa,PAGA,1723,01/09/2023,septiembre,90400,406403382bac,7CM,43.39200
+100,Saenz,PAGA,1724,01/09/2023,septiembre,90400,406406129BAC,7CM,90.40000
+85,Hjk Gourmet S.A,PAGA,1725,08/09/2023,septiembre,67800,406403407bac,65,57.63000
+6,Jardines,PAGA,1726,08/09/2023,septiembre,22.60000,666400192bac,CAMARONES,135.60000
+200,Jardines,PAGA,1726,08/09/2023,septiembre,90400,666400192bac,8CM,180.80000
+30,La Casa De Escazu,PAGA,1727,08/09/2023,septiembre,1.01700,666407955bac,8CM,30.51000
+60,3-101-730175 Sa,PAGA,1728,08/09/2023,septiembre,90400,8235769BAC,7CM,54.24000
+100,Saenz,PAGA,1729,08/09/2023,septiembre,90400,406407323BAC,7CM,90.40000
+120,Asocia Nacion De Chef,PAGA,1731,08/09/2023,septiembre,1.18600,,7CM,142.32000
+100,Maraki Family Itda,PAGA,1732,12/09/2023,septiembre,90400,960478034BAc,7CM,90.40000
+996,Industria Martec,PAGA,1733,12/09/2023,septiembre,80000,666405934bac,7CM,796.80000
+6,Jardines,PAGA,1735,15/09/2023,septiembre,22.60000,406403407bac,CAMARONES,135.60000
+197,Jardines,PAGA,1735,15/09/2023,septiembre,1.01700,666400192bac,8CM,200.34900
+84,Hjk Gourmet S.A,PAGA,1736,19/09/2023,septiembre,67800,406403407bac,65,56.95200
+48,Moesto Pizzas,PAGA,1737,19/09/2023,septiembre,90400,,7CM,43.39200
+150,Saenz,PAGA,1738,19/09/2023,septiembre,90400,,7CM,135.60000
+,Fundacion De La Universidad Cr,PAGA,1739,21/09/2023,septiembre,,,,000
+57,Saenz,PAGA,1740,22/09/2023,septiembre,90400,40641958bac,,51.52800
+50,Hjk Gourmet S.A,PAGA,1741,23/09/2023,septiembre,67800,406401400bac,,33.90000
+,Anulada,,1742,23/09/2023,septiembre,,,,000
+57,Saenz,PAGA,1743,23/09/2023,septiembre,90400,406401958  BAC,,51.52800
+36,Jardine De Los Olivos º,PAGA,1744,23/09/2023,septiembre,1.01700,666404804bac,,36.61200
+156,Jardine De Los Olivos º,PAGA,1744,23/09/2023,septiembre,90400,666404804bac,,141.02400
+1302,Adomicilio,paga,SIN  REFENC,,septiembre,80000,,7cm,
+100,Adomicilio,paga,SIN  REFENC,,septiembre,78000,,65CM,78.00000
+88,Adomicilio,,SIN  REFENC,,septiembre,90000,,8cm,79.20000
+,,,,,septiembre,,,,000
+120,Hjk Gourmet S.A,PAGA,1745,02/10/2023,Octubre,67800,406401400bac,,81.36000
+150,Jardine De Los Olivos º,PAGA,1746,02/10/2023,Octubre,90400,666404804bac,7CM,135.60000
+30,Saenz,PAGA,1747,02/10/2023,octubre,90400,406405541bac,,27.12000
+24,Eco Sikwa Sa,PAGA,1748,03/10/2023,octubre,90400,406408714 bac,,21.69600
+25,Esquina Inka Sa,PENDIENTE,1749,03/10/2023,octubre,90400,,,22.60000
+,Nula,,1750,03/10/2023,octubre,,,,000
+150,Funda Una,paga,1751,05/10/2023,octubre,1.60000,,,240.00000
+100,Saenz,PAGA,1752,06/10/2023,octubre,90400,406400758baac,,90.40000
+90,Hjk Gourmet S.A,PAGA,1753,06/10/2023,octubre,67800,406401400bac,,61.02000
+250,Jardine De Los Olivos º,paga,1754,06/10/2023,octubre,90400,666400721  BAC,,226.00000
+,Jardine De Los Olivos º,paga,1754,06/10/2023,octubre,,666400721  BAC,CAMARONES,162.72000
+200,Jardine De Los Olivos º,paga,1755,13/10/2023,octubre,90400,666400721  BAC,7cm,180.80000
+60,Eco Sikwa Sa,PAGA,1756,13/10/2023,octubre,90400,406403382bac,7cm,54.24000
+100,Saenz,PAGA,1757,13/10/2023,octubre,90400,406400758baac,7cm,90.40000
+48,Modesto,paga,1758,14/10/2023,octubre,94000,406404152bac,7cm,45.12000
+100,Una,paga,1759,18/10/2023,octubre,1.71300,960420209 BAC,7cm,171.30000
+100,Saenz,paga,1760,21/10/2023,octubre,90400,406400564bac,7cm,90.40000
+,,,,,octubre,,,,
+100,Saenz,paga,1762,27/10/2023,octubre,90400,406409993 bac,7cm,90.40000
+300,Maraki Family Ltda,paga,1763,27/10/2023,octubre,96050,960492310  BAC,7cm,288.15000
+120,Hjk Gourmet S.A,PAGA,1764,28/10/2023,octubre,67800,406401400bac,7cm,81.36000
+150,Jardine De Los Olivos º,paga,1766,28/10/2023,octubre,1.01700,666409674  bac,8cm,152.55000
+3,Jardine De Los Olivos º,paga,1768,28/10/2023,octubre,20.35000,666409674  bac,,61.05000
+,,,,24/11/2023,octubre,,,,000
+,,,,,octubre,,,,000
+,,,,,octubre,,,,000
+,,,,,octubre,,,,000
+,,,,,octubre,,,,000
+,,,,,octubre,,,,000
+,,,,,octubre,,,,000
+,,,,,octubre,,,,000
+175,Jardine De Los Olivos º,Paga,1769,04/11/2023,Noviembre,1.01700,666400576bac,8cm,177.97500
+8,Jardine De Los Olivos º,Paga,1769,04/11/2023,Noviembre,20.34000,666400576bac,camarones,162.72000
+24,Esquinita Inka,PAGA,1770,04/11/2023,noviembre,1.01700,40402609BAC,8cm,24.40800
+80,Calimardo De Puntarenas,PAGA,1771,04/11/2023,noviembre,90400,40642130 BAC,8cm,72.32000
+75,Hjk Gourmet S.A,PAGA,1772,04/11/2023,noviembre,67800,40404337BAC,65CM,50.85000
+30,Recife Saenz Y Ureñ...,PAGA,1773,04/11/2023,noviembre,90400,406408415 BAC,7CM,27.12000
+6,Jardine De Los Olivos º,Paga,1774,08/11/2023,noviembre,20.34000,666400576bac,camarones,122.04000
+120,Calimardo De Puntarenas,PAGA,1775,10/11/2023,noviembre,90400,40642130 BAC,8CM,108.48000
+60,Eco Sikwa.S.A,PAGA,1776,10/11/2023,noviembre,90400,406408714 BAC,7CM,54.24000
+100,Recife Saenz Y Ureñ...,PAGA,1777,10/11/2023,noviembre,90400,406409753  BAC,7CM,90.40000
+75,Hjk Gourmet S.A,PAGA,1778,11/11/2023,noviembre,67800,40404337BAC,65CM,50.85000
+265,Jardine De Los Olivos º,Paga,1779,11/11/2023,noviembre,1.01700,666400576bac,8CM,269.50500
+950,Industrias Martec,PAGA,1780,11/11/2023,noviembre,80000,960481626  BAC,7CM,760.00000
+200,Meraki Famiy Limitada,paga,1781,14/11/2023,noviembre,96050,960442614BAC,7cm,192.10000
+80,Hjk Gourmet Sa,PAGA,1782,17/11/2023,noviembre,56500,40404337BAC,7cm,45.20000
+253,Jardine De Los Olivos º,Paga,1783,17/11/2023,noviembre,1.01700,666408196bac,8cm,257.30100
+,Jardine De Los Olivos º,Paga,1783,17/11/2023,noviembre,,666408196bac,camarones,183.06000
+90,Eco Sikwa.S.A,Paga,1784,17/11/2023,noviembre,90400,406408409bac,7cm,81.36000
+100,Recife Saenz Y Ureñ...,PAGA,1785,17/11/2023,noviembre,90400,406400680BAC,7CM,90.40000
+24,Recife Saenz Y Ureñ...,PAGA,1786,17/11/2023,noviembre,90400,406400680BAC,7CM,21.69600
+50,Vista Mar Del Sol Sa,PAGA,1787,18/11/2023,noviembre,1.07300,406405613   BAC,,53.65000
+200,Meraki Famiy Limitada,paga,1788,18/11/2023,noviembre,96000,960442614BAC,7cm,192.00000
+24,Esquina Ink,PAGA,1789,21/11/2023,noviembre,1.01700,406400474BAC,8cm,24.40800
+4,Jardine De Los Olivos º,Paga,1791,24/11/2023,noviembre,20.34000,666408196bac,camarones,81.36000
+200,Jardine De Los Olivos º,Paga,1791,24/11/2023,noviembre,1.01700,666408196bac,8cm,203.40000
+120,Eco Sikwa.S.A,Paga,1792,24/11/2023,noviembre,90400,406408409bac,7cm,108.48000
+130,Recife Saenz Y Ureñ...,PAGA,1793,24/11/2023,noviembre,90400,406401465BAC,7cm,117.52000
+24,Recife Saenz Y Ureñ...,PAGA,1795,24/11/2023,noviembre,90400,406401465BAC,7cm,21.69600
+120,Hjk Gourmet Sa,PAGA,1796,24/11/2023,noviembre,67800,40404337BAC,6cm,81.36000
+200,Meraki Famiy Limitada,PAGA,1797,24/11/2023,noviembre,96000,960481344bac,8cm,192.00000
+200,Coco Beer,PAGA,1798,24/11/2023,noviembre,88140,80080 bac,6cm,176.28000
+2,Coco Beer,PAGA,1798,24/11/2023,noviembre,1.00500,80080 bac,,2.01000
+50,Calimardo De Puntarenas,PAGA,1799,25/11/2023,noviembre,90400,406402003bac,7cm,45.20000
+568,Adomicili,,sin refenci,,noviembre,50000,,6.5cm,284.00000
+1017,Adomicili,,sin refenci,,noviembre,80000,,7cm,813.60000
+44,Adomicili,,sin refenci,,noviembre,90000,,8cm,39.60000
+,,,,,noviembre,,,,
+,,,,,noviembre,,,,
+,,,,,noviembre,,,,
+,,,,,noviembre,,,,
+,,,,,noviembre,,,,
+100,Hjk Gourmet S.A,paga,1800,01/12/2023,Diciembre,67800,46407408bac,6cm,67.80000
+200,Jardines,PAGA,1801,01/12/2023,Diciembre,1.01700,666409362bac,8cm,203.40000
+5,Jardines,PAGA,1801,01/12/2023,diciembre,20.34000,666409362bac,,101.70000
+120,Eco Sikwa S.A,Paga,1802,01/12/2023,diciembre,90400,406408409bac,7cm,108.48000
+150,Recife Saenz Y Ureñ...,PAGA,1803,01/12/2023,diciembre,90400,406400938bac,7cm,135.60000
+100,Ready Pizza Rp Responsabilidad Limitada,PAGA,1804,02/12/2023,diciembre,97400,40640247bac,7cm,97.40000
+185,Calimardo Puntarenas S.A,PAGA,1805,02/12/2023,diciembre,90400,406402003bac,7cm,167.24000
+300,Meraki Familia Limitada,PAGA,1806,06/12/2023,diciembre,96000,960433383bac,7cm,288.00000
+170,Calimardo Puntarenas S.A,PAGA,1807,08/12/2023,diciembre,90400,406401595bac,8cm,153.68000
+80,Eco Sikwa.S.A,Paga,1808,08/12/2023,diciembre,90400,406401086bac,7cm,72.32000
+98,Recife Saenz Y Ureñ...,PAGA,1809,08/12/2023,diciembre,90400,406408419bac,7cm,88.59200
+300,Meraki Family Limitada,paga,1810,08/12/2023,diciembre,96050,960482168BAC,7cm,288.15000
+60,Hotel Iguana,PAGA,1811,08/12/2023,diciembre,96050,666405552bac,7cm,57.63000
+75,Cocodray,PAGA,1812,09/12/2023,diciembre,88140,666407493 bac,7cm,66.10500
+2,Cocodray,PAGA,1812,09/12/2023,diciembre,1.00570,666407493 bac,,2.01140
+200,Jardines,PAGA,1813,09/12/2023,diciembre,1.01700,666409362bac,8cm,203.40000
+10,Jardines,PAGA,1813,09/12/2023,diciembre,20.34000,666409362bac,camarones,203.40000
+300,Hotelera Los Altos,PAGA,1814,11/12/2023,diciembre,90400,666404856 bac,7cm,271.20000
+25,Esquinita Inka,PAGA,1815,13/12/2023,diciembre,1.01700,406403093bac,8cm,25.42500
+250,Jardines,PAGA,1816,13/12/2023,diciembre,1.01700,666404699bac,8cm,254.25000
+96,Restaurante Citrus Sa,PAGA,1817,13/12/2023,diciembre,90400,666409420bac,7cm,86.78400
+300,Meraki Family Limitada,PAGA,1818,13/12/2023,diciembre,96040,90411333 bac,7cm,288.12000
+125,Hjk Gourmet S.A,paga,1820,15/12/2023,diciembre,67800,46407408bac,65cm,84.75000
+9,Jardines,PAGA,1821,15/12/2023,diciembre,20.34000,666404699bac,camarones,183.06000
+150,Recife Saenz Y Ureñ...,PAGA,1822,15/12/2023,diciembre,90400,406408571bac,7cm,135.60000
+100,Eco Sikwa.S.A,Paga,1823,15/12/2023,diciembre,10000,406401086bac,7cm,10.00000
+100,Calimardo Puntarenas S.A,PAGA,1824,15/12/2023,diciembre,90400,406401595bac,8cm,90.40000
+75,Cocodray,PAGA,1825,15/12/2023,diciembre,88140,666404756bac,6.5cm,66.10500
+2,Cocodray,PAGA,1825,15/12/2023,diciembre,1.00570,666404756bac,,2.01140
+200,Restaurante Stelle,PAGA,1826,18/12/2023,diciembre,96050,630007914bac,7cm,192.10000
+400,Meraki Fammilia Limitada,PAGA,1827,20/12/2023,diciembre,96050,960451341bac,7cm,384.20000
+82,Hjk Gourmet S.A,paga,1828,20/12/2023,diciembre,67800,46407408bac,6.5CM,55.59600
+60,Kumbalesrl,PAGA,1829,22/12/2023,diciembre,96050,97046990bac,7cm,57.63000
+120,Eco Sikwa.S.A,Paga,1830,22/12/2023,diciembre,90400,406401086bac,7cm,108.48000
+180,Jardines,PAGA,1831,23/12/2023,diciembre,1.01700,66640057bac,8cm,183.06000
+230,Calimardo Puntarenas S.A,PAGA,1832,23/12/2023,diciembre,90400,406401595bac,8cm,207.92000
+130,Recife Saenz Y Ureñ...,PAGA,1833,23/12/2023,diciembre,90400,406405953bac,7cm,117.52000
+120,Vista Mar Del Sol Sa,paga,1834,23/12/2023,diciembre,1.23170,406403139bac,9cm,147.80400
+60,Eco Sikwa.S.A,Paga,1835,28/12/2023,diciembre,90400,406401086bac,7cm,54.24000
+100,Recife Saenz Y Ureñ...,PENDIENTE,1836,28/12/2023,diciembre,90400,,7cm,90.40000
+90,Hjk Gourmet S.A,paga,1837,28/12/2023,diciembre,67800,46407408bac,65cm,61.02000
+250,Jardines,PAGA,1838,29/12/2023,diciembre,1.01700,66640057bac,8cm,254.25000
+5,Jardines,PAGA,1838,29/12/2023,diciembre,20.34000,66640057bac,camaron,101.70000
+350,Calimardo Puntarenas S.A,PAGA,1839,30/12/2023,diciembre,90400,406400016bac,8cm,316.40000
+150,Cocodray,PAGA,1840,30/12/2023,diciembre,1.01700,,7cm,152.55000
+2,Cocodray,PAGA,1840,30/12/2023,diciembre,1.00570,,,2.01140
+100,Hotel Iguana,PAGA,1841,30/12/2023,diciembre,96050,666405552bac,7cm,96.05000
+400,Meraki Family Limitada,PAGA,1842,30/12/2023,diciembre,96050,960496900bac,7cm,384.20000
+40,Vista Mar Del Sol Sa,paga,1843,30/12/2023,diciembre,1.46900,406403906bac,10cm,58.76000
+20,Vista Mar Del Sol Sa,paga,1843,30/12/2023,diciembre,1.23170,406403906bac,9cm,24.63400
+400,Adomicilio,,sin refenci,,diciembre,78000,,6.5cm,312.00000
+2308,Adomicilio,,sin refenci,,diciembre,80000,,7cm,
+170,Adomicilio,,sin refenci,,diciembre,90000,,8cm,153.00000
