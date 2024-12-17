@@ -1,0 +1,102 @@
+activo,ano_de_adquisicion,cantidad,costo,fuente_de_financiamiento,tipo,total
+Impresora  Portatil,2022,1,85.000,Efectivo,,85.00000
+Hieleras,2022,3,60.455,Efectivo,Hieleras Coleman,181.36500
+Congelador,,1,145.000,,,145.00000
+Cuadraciclo,,1,,,,
+Hielera,2017,1,25.000,Contado,,25.00000
+Geles,2017,6,1.500,Contado,,9.00000
+Computadora,2018,1,140.000,Contado,Portatil,140.00000
+Hielera,2019,1,17.700,Contado,Portatil,17.70000
+Hileras,2020,2,16.900,Contado,,33.80000
+Mesa  Portatil,2020,1,,Contado,,17.80000
+Hieleras,,1,40.848,,,40.84800
+,2023,2,48.187,,,96.37400
+Computadora,2022,10,450000.00,Presupuesto Anual,Equipo Tecnológico,4500000.00
+Escritorio,,15,75000.00,Donación Empresarial,Mobiliario,1125000.00
+Impresora,2023,3,250000.00,Recursos Propios,Equipo Tecnológico,750000.00
+Proyector,2020,5,300000.00,Presupuesto Estatal,Equipo Tecnológico,1500000.00
+Sillas,2019,20,25000.00,Donación Particular,Mobiliario,500000.00
+Aire Acondicionado,,2,600000.00,,Equipamiento,1200000.00
+Vehículo,2021,1,7500000.00,Presupuesto Anual,Transporte,7500000.00
+Estantería,2018,10,50000.00,Donación Empresarial,Mobiliario,500000.00
+Cámara De Seguridad,,8,120000.00,Presupuesto Anual,Equipo Tecnológico,960000.00
+Televisor,2023,2,400000.00,Recursos Propios,Equipo Tecnológico,800000.00
+Camara De Refrigeracion,2022,1,350000.00,Recursos Propios,Equipamiento,350000.00
+Congelador Industrial,2021,,450000.00,Donación Empresarial,Equipamiento,950000.00
+Termo De Insulación,2020,5,15000.00,Presupuesto Eww,Insumos,75000.00
+Hielera Grande,,3,50000.00,Recursos Propios,Equipamiento,150000.00
+Malla Para Empaque,2022,100,300.00,Efectivo,Insumos,30000.00
+Despachador De Hielo,2023,,100000.00,Donación Particular,Equipamiento,100000.00
+Sistema De Refrigeración De Aire,2022,1,200000.00,Efectivo,Equipos De Refrigeración,200000.00
+Caja Térmica,2020,20,3500.00,,Equipamiento,70000.00
+Carro De Transporte De Mariscos,2021,2,150000.00,Presupuesto Anual,,300000.00
+Sistema De Filtrado De Agua,2021,1,80000.00,,Equipos De Filtración,80000.00
+Balanza Digital,,5,25000.00,Efectivo,Herramientas,125000.00
+Estante Metálico,2022,10,40000.00,Donación Empresarial,Mobiliario,400000.00
+Mesa De Trabajo,2020,3,45000.00,,Mobiliario,135000.00
+Cajón Para Almacenaje,2021,50,2500.00,Recursos Propios,Mobiliario,125000.00
+Equipos De Seguridad (Cámaras),,10,120000.00,,Equipamiento De Seguridad,1200000.00
+Contenedores Plásticos,2020,100,1000.00,Efectivo,Material De Almacenaje,100000.00
+Guantes De Seguridad,2023,200,500.00,Presupuesto Anual,Insumos De Seguridad,100000.00
+Vehículo De Reparto,2021,1,8000000.00,,Transporte,8000000.00
+Carro Para Almacenaje De Mariscos,2020,5,10000.00,Efectivo,Equipamiento,50000.00
+Almacén Modular,2022,,250000.00,S,Mobiliario,500000.00
+Generador Eléctrico,2023,1,1200000.00,Recursos Propios,Equipos De Energía,1200000.00
+Recolector De Desperdicios,2022,1,350000.00,Presupuesto Anual,Equipos De Limpieza,350000.00
+Sillas De Oficina,2021,15,15000.00,Recursos Propios,Mobiliario,225000.00
+Paneles De Publicidad,2020,10,30000.00,Donación Particular,Publicidad,300000.00
+Vehículo Repartidor,2023,2,6000000.00,Presupuesto Anual,Transporte,12000000.00
+Material De Embalaje,,500,200.00,Efectivo,Insumos,100000.00
+Báscula Para Control De Peso,2021,,120000.00,Recursos Propios,Herramientas,120000.00
+Camiones Para Distribución,2020,1,10000000.00,Donación Empresarial,Transporte,10000000.00
+Sistema De Monitoreo Remoto,2022,1,500000.00,Efectivo,Equipos De Seguridad,500000.00
+Almacen De Mariscos Congelados,,1,800000.00,Recursos Propios,Almacenamiento Congelado,800000.00
+Refrigerador Industrial,2022,2,600000.00,Recursos Propios,Equipamiento,1200000.00
+Camara Congeladora,2021,1,350000.00,Presupuesto Anual,Equipamiento,350000.00
+Ventilador Industrial,2020,3,50000.00,Efectivo,Equipamiento,150000.00
+Hieleras Portatiles,2022,4,40000.00,Recursos Propios,Equipos De Almacenaje,160000.00
+Cajones Plásticos,2023,20,3000.00,Donación Particular,Material De Almacenaje,60000.00
+Recipientes Térmicos,,10,8000.00,Efectivo,Equipos De Almacenaje,80000.00
+Cámaras De Seguridad,2022,6,120000.00,Recursos Propios,Equipamiento De Seguridad,720000.00
+Contenedores De Hielo,2020,15,2500.00,Donación Empresarial,Insumos,37500.00
+Estantes Para Almacenaje,2021,5,25000.00,Presupuesto Anual,Mobiliario,125000.00
+Balanza Para Pesaje,2022,2,40000.00,Recursos Propios,Herramientas,80000.00
+Carro De Reparto,2021,,7000000.00,Efectivo,Transporte,7000000.00
+Refrigeradora Para Mariscos,2022,1,500000.00,Recursos Propios,Equipamiento,500000.00
+Caja Para Almacenaje,2020,30,2000.00,Donación Particular,Material De Almacenaje,60000.00
+Mesas De Trabajo,2022,3,25000.00,Presupuesto Anual,Mobiliario,75000.00
+Aire Acondicionado Industrial,2023,1,1500000.00,Recursos Propios,Equipamiento,1500000.00
+Teléfono De Oficina,2021,5,8000.00,Efectivo,Equipos De Oficina,40000.00
+Herramientas De Limpieza,2020,50,1000.00,Donación Empresarial,Material De Limpieza,50000.00
+Vehículo De Transporte,,,8500000.00,Recursos Propios,Transporte,8500000.00
+Lámparas Para Iluminación,2020,20,1500.00,Efectivo,Iluminación,30000.00
+Sillas Para Oficina,2021,10,12000.00,Donación Particular,Mobiliario,120000.00
+Proyector De Oficina,,1,150000.00,Recursos Propios,Equipos Audiovisuales,150000.00
+Cinta Para Embalaje,2020,200,500.00,Donación Empresarial,Insumos De Embalaje,100000.00
+Estructura Metálica,2021,10,25000.00,Presupuesto Anual,Mobiliario,250000.00
+Ventiladores Para Oficina,2022,3,15000.00,Efectivo,Equipos De Oficina,45000.00
+Caja De Almacenaje Metálica,2022,15,8000.00,Donación Empresarial,Material De Almacenaje,120000.00
+Generador Eléctrico,2022,1,1000000.00,Recursos Propios,Equipos De Energía,1000000.00
+Equipo De Monitoreo,2023,1,350000.00,Efectivo,Equipos De Seguridad,350000.00
+Caja Fuerte,2021,2,100000.00,Recursos Propios,Mobiliario,200000.00
+Carro Para Almacenaje De Mariscos,2020,3,5000.00,Efectivo,Equipos De Almacenaje,15000.00
+Cajas De Cartón Para Embalaje,2023,100,300.00,Presupuesto Anual,Insumos De Embalaje,30000.00
+Sillas De Oficina Giratorias,2022,10,18000.00,Donación Particular,Mobiliario,180000.00
+Calculadora Científica,2021,3,10000.00,Recursos Propios,Equipos De Oficina,30000.00
+Básculas Para Pesaje,,,25000.00,Efectivo,Herramientas,50000.00
+Impresora Multifuncional,2023,1,300000.00,Recursos Propios,Equipos De Oficina,300000.00
+Suministros De Oficina,,50,1000.00,Donación Empresarial,Material De Oficina,50000.00
+Muebles De Oficina,2021,,45000.00,Presupuesto Anual,Mobiliario,225000.00
+Botiquín De Primeros Auxilios,2022,2,10000.00,Efectivo,Equipos De Seguridad,20000.00
+Tóner De Impresora,2023,20,5000.00,Recursos Propios,Suministros,100000.00
+Soportes Metálicos Para Cajas,2022,15,3500.00,Donación Particular,Equipos De Almacenaje,52500.00
+Equipos De Teleconferencia,2021,1,150000.00,Recursos Propios,Equipos De Oficina,150000.00
+Trampa Para Insectos,2022,10,3000.00,Efectivo,Equipos De Limpieza,30000.00
+Cinta Medica,2023,100,100.00,Donación Empresarial,Insumos De Seguridad,10000.00
+Asientos Para Área De Reparto,2022,20,12000.00,Recursos Propios,Mobiliario,240000.00
+Estantería Para Oficina,2020,3,40000.00,Presupuesto Anual,Mobiliario,120000.00
+Accesorios De Oficina,,200,500.00,Recursos Propios,Suministros,100000.00
+Lentes De Seguridad,2021,50,2000.00,Donación Empresarial,Equipos De Seguridad,100000.00
+Celular Para La Oficina,,2,30000.00,Efectivo,Equipos De Oficina,60000.00
+Estufa Para La Oficina,2023,1,150000.00,Recursos Propios,Equipos De Oficina,150000.00
+Camisetas Para Personal,2022,30,1000.00,Efect,Ropa De Trabajo,30000.00

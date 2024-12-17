@@ -5,7 +5,7 @@ sources:
     database: bluemar_dev_db
     schema: raw
     tables:
-      - name: raw_ingresos
+      - name: processed_ingresos
 
 models:
   - name: stg_ingresos

@@ -1,5 +1,3 @@
--- models/raw/raw_gastos_operativos.sql
-
 WITH raw_gastos_operativos AS (
     SELECT
         CAST(CASE
