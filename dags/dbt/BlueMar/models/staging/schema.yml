@@ -6,55 +6,7 @@ sources:
     schema: raw
     tables:
       - name: raw_ingresos
+      - name: raw_gastos_operativos
+      - name: raw_inventario de activos
+      - name: raw_pago_planillas
 
-models:
-  - name: stg_ingresos
-    description: Staging model for ingresos with cleaned and transformed data.
-    columns:
-      - name: ingreso_id
-        description: Unique identifier for each ingreso record.
-        tests:
-          - unique
-          - not_null
-
-      - name: cliente
-        description: Name of the client.
-        tests:
-          - not_null
-
-      - name: estado_factura
-        description: Status of the invoice.
-        tests:
-          - accepted_values:
-              values: ['PAGA', 'ANULADA', 'NULA']
-
-      - name: factura
-        description: Invoice number.
-        tests:
-          - not_null
-
-      - name: precio_unitario
-        tests:
-          - not_null
-          - dbt_utils.expression_is_true:
-              expression: "precio_unitario::NUMERIC IS NOT NULL"
-
-      - name: total
-        tests:
-          - not_null
-          - dbt_utils.expression_is_true:
-              expression: "total::NUMERIC IS NOT NULL"
-
-      - name: fecha
-        description: Date of the transaction.
-        tests:
-          - not_null
-          - dbt_utils.expression_is_true:
-              expression: "fecha >= '2023-01-01'"
-
-      - name: mes
-        description: Month of the transaction.
-        tests:
-          - not_null
-          - accepted_values:
-              values: ['Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre']
