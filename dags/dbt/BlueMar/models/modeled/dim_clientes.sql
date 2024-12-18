@@ -1,6 +1,6 @@
 -- models/modeled/dim_clientes.sql
 
 SELECT
-    cliente_id AS "Cliente ID",  -- Renombrar a un formato más user-friendly
-    nombre AS "Nombre del Cliente"  -- Renombrar a un formato más user-friendly
+    cliente_id AS "Cliente ID",  
+    nombre AS "Nombre del Cliente"  
 FROM {{ ref('stg_clientes') }};
