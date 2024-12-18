@@ -1,0 +1,12 @@
+tables:
+  - name: stg_facturas
+    checks:
+      - row_count > 0
+      - schema:
+          - factura_id is not null
+          - cliente_id is not null
+          - fecha_emision is not null
+          - total >= 0
+      - valid_values:
+          column: estado_factura
+          values: ["Paga", "Pendiente", "Anulada"]

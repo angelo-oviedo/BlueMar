@@ -1,0 +1,10 @@
+tables:
+  - name: stg_clientes
+    checks:
+      - row_count > 0
+      - schema:
+          - cliente_id is not null
+          - nombre is not null
+      - valid_values:
+          column: cliente_id
+          values: ["^[a-zA-Z0-9]+$"] # Solo valores alfanuméricos permitidos

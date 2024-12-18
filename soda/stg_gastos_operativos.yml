@@ -1,0 +1,11 @@
+tables:
+  - name: stg_gastos_operativos
+    checks:
+      - row_count > 0
+      - schema:
+          - gasto_operativo_id is not null
+          - proveedor_id is not null
+          - total >= 0
+      - valid_values:
+          column: estado_factura
+          values: ["Paga", "Pendiente", "Anulada"]

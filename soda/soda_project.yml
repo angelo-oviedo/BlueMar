@@ -1,0 +1,9 @@
+connections:
+  snowflake_connection:
+    type: snowflake
+    account: ${SNOWFLAKE_ACCOUNT}
+    username: ${SNOWFLAKE_USERNAME}
+    password: ${SNOWFLAKE_PASSWORD}
+    warehouse: ${SNOWFLAKE_WAREHOUSE}
+    database: ${SNOWFLAKE_DATABASE}
+    schema: ${SNOWFLAKE_SCHEMA}
