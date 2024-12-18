@@ -11,7 +11,7 @@ CREATE STORAGE INTEGRATION bluemar_raw_data_s3_integration
 TYPE = EXTERNAL_STAGE
 STORAGE_PROVIDER = 'S3'
 ENABLED = TRUE
-STORAGE_AWS_ROLE_ARN = 'arn:aws:iam::361769575017:role/bluemar_snowflake_role'
+STORAGE_AWS_ROLE_ARN = '${ARN_ROLE}'
 STORAGE_ALLOWED_LOCATIONS = ('s3://bluemar-raw-data/');
 
 DESCRIBE INTEGRATION bluemar_raw_data_s3_integration;
@@ -41,7 +41,7 @@ USE ROLE bluemar_dev_elt_developer_role;
 
 CREATE OR REPLACE STAGE bluemar_processed_data_external_stage
     URL='S3://bluemar-processed-data/'
-    CREDENTIALS=(AWS_KEY_ID='AKIAVIOZFUJUWWEUQMPC' AWS_SECRET_KEY='IPN9aO0N1EpajDwF3N7HdzCrtOoSwFT0Xlf/eukk');
+    CREDENTIALS=(AWS_KEY_ID='{KEY_ID}' AWS_SECRET_KEY='{SECRET_KEY}');
 
 ls @bluemar_processed_data_external_stage;
 
@@ -60,7 +60,7 @@ CREATE STORAGE INTEGRATION bluemar_processed_data_s3_integration
 TYPE = EXTERNAL_STAGE
 STORAGE_PROVIDER = 'S3'
 ENABLED = TRUE
-STORAGE_AWS_ROLE_ARN = 'arn:aws:iam::361769575017:role/bluemar_snowflake_role'
+STORAGE_AWS_ROLE_ARN = '{ARN_ROLE}'
 STORAGE_ALLOWED_LOCATIONS = ('s3://bluemar-processed-data/');
 
 DESCRIBE INTEGRATION bluemar_processed_data_s3_integration;
