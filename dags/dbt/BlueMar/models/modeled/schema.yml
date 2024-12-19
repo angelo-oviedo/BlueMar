@@ -1,0 +1,25 @@
+version: 2
+
+sources:
+  - name: modeled
+    database: bluemar_dev_db
+    schema: modeled
+    tables:
+      - name: fact_ingresos
+        description: "Tabla de hechos con los ingresos generados."
+      - name: fact_gastos_operativos
+        description: "Tabla de hechos con los gastos operativos."
+      - name: fact_planillas
+        description: "Tabla de hechos con los pagos de planillas."
+      - name: dim_clientes
+        description: "Dimensión que contiene información de los clientes."
+      - name: dim_facturas
+        description: "Dimensión que contiene información de las facturas emitidas."
+      - name: dim_empleados
+        description: "Dimensión que contiene información de los empleados."
+      - name: dim_proveedores
+        description: "Dimensión que contiene información de los proveedores."
+      - name: dim_activos
+        description: "Dimensión que contiene información sobre los activos."
+      - name: dim_detalle_gastos
+        description: "Dimensión que contiene detalles de los gastos."

@@ -25,6 +25,6 @@ models:
       +materialized: incremental
       +schema: staging
 
-    analytics:
+    modeled:
       +materialized: table
-      +schema: analytics
+      +schema: modeled

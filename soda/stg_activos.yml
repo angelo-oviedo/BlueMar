@@ -1,0 +1,12 @@
+tables:
+  - name: stg_activos
+    checks:
+      - row_count > 0
+      - schema:
+          - activo_id is not null
+          - nombre is not null
+          - cantidad >= 0
+          - costo >= 0
+          - total >= 0
+      - uniqueness:
+          column: activo_id

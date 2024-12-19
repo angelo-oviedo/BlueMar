@@ -1,0 +1,10 @@
+tables:
+  - name: stg_planillas
+    checks:
+      - row_count > 0
+      - schema:
+          - planilla_id is not null
+          - empleado_id is not null
+          - fecha_del_pago is not null
+          - horas_trabajadas >= 0
+          - pago_total >= 0

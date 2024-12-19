@@ -1,0 +1,9 @@
+tables:
+  - name: stg_detalle_gastos
+    checks:
+      - row_count > 0
+      - schema:
+          - gasto_id is not null
+          - proveedor_id is not null
+          - cantidad >= 0
+          - total >= 0

@@ -1,0 +1,9 @@
+tables:
+  - name: stg_empleados
+    checks:
+      - row_count > 0
+      - schema:
+          - empleado_id is not null
+          - nombre_del_colaborador is not null
+      - uniqueness:
+          column: empleado_id
