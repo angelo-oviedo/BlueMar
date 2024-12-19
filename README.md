@@ -10,7 +10,8 @@ The pipeline architecture includes the following stages:
 - **Data Transformation:** dbt processes raw data into staging and modeled layers.
 - **Data Validation:** Soda.io checks ensure data quality across pipeline stages.
 - **Data Visualization:** A Streamlit dashboard visualizes key metrics and refreshes automatically.
-- 
+
+  
 Features
 --------
 
